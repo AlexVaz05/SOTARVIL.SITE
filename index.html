@@ -1,0 +1,741 @@
+<!DOCTYPE html>
+<html lang="pt-PT">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Sotarvil, Distribuição de Bebidas Premium. Parceiro oficial Super Bock Group no distrito de Viseu.">
+    <title>Sotarvil - Distribuidor Oficial de Bebidas</title>
+    
+    <!-- GEO SEO -->
+    <meta name="geo.region" content="PT-18">
+    <meta name="geo.placename" content="Viseu">
+    <meta name="geo.position" content="40.6808;-7.8453">
+    <meta name="ICBM" content="40.6808, -7.8453">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://www.sotarvil.pt/">
+    <meta property="og:title" content="Sotarvil - Distribuidor Oficial de Bebidas">
+    <meta property="og:description" content="Sotarvil, Distribuição de Bebidas Premium. Parceiro oficial Super Bock Group no distrito de Viseu.">
+    <meta property="og:image" content="https://www.sotarvil.pt/LOGO-SOTARVIL-1536x1536.png">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://www.sotarvil.pt/">
+    <meta property="twitter:title" content="Sotarvil - Distribuidor Oficial de Bebidas">
+    <meta property="twitter:description" content="Sotarvil, Distribuição de Bebidas Premium. Parceiro oficial Super Bock Group no distrito de Viseu.">
+    <meta property="twitter:image" content="https://www.sotarvil.pt/LOGO-SOTARVIL-1536x1536.png">
+
+    <!-- JSON-LD Structured Data -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Sotarvil - Distribuição de Bebidas, Lda",
+      "image": "https://www.sotarvil.pt/LOGO-SOTARVIL-1536x1536.png",
+      "@id": "https://www.sotarvil.pt",
+      "url": "https://www.sotarvil.pt",
+      "telephone": "+351232430770",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Queimadas, Sernada",
+        "addressLocality": "Viseu",
+        "postalCode": "3505-330",
+        "addressCountry": "PT"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 40.6808,
+        "longitude": -7.8453
+      },
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ],
+        "opens": "09:00",
+        "closes": "18:30"
+      }
+    }
+    </script>
+
+    <!-- FAQ Schema (GEO) -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Quem é o distribuidor oficial Super Bock em Viseu?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A Sotarvil é o parceiro oficial e exclusivo do Super Bock Group no distrito de Viseu, garantindo a distribuição de toda a gama de cervejas (Super Bock, Carlsberg), águas (Vitalis, Pedras, Luso) e refrigerantes do grupo."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Como posso encomendar bebidas para o meu restaurante ou café em Viseu?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Profissionais do canal HORECA podem solicitar acesso ao catálogo completo e agendar uma visita comercial através do nosso formulário de contacto no site ou pelo telefone +351 232 430 770."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "A Sotarvil faz entregas em todo o distrito de Viseu?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sim, possuímos uma frota moderna e equipas dedicadas que asseguram entregas rápidas e regulares em todos os concelhos do distrito de Viseu, servindo cafés, restaurantes e hotéis."
+          }
+        }
+      ]
+    }
+    </script>
+
+    <!-- Fontes Estritamente Profissionais -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="theme.css?v=20260331v6">
+</head>
+<body class="sotarvil-body">
+
+    <!-- AGE GATE (Legal) -->
+    <div id="age-gate" class="age-gate-overlay">
+        <div class="age-gate-modal">
+            <div style="background: #fff; display: inline-block; padding: 1rem 1.5rem; border-radius: 8px; margin-bottom: 2rem;">
+                <img src="LOGO-SOTARVIL-1536x1536.png" class="age-gate-logo" style="margin-bottom: 0;" alt="Sotarvil">
+            </div>
+            <h2 class="heading-font">Bem-vindo à Sotarvil</h2>
+            <p>O nosso website destina-se a profissionais do setor e inclui referência a bebidas alcoólicas. Por razões legais, confirme a sua idade para prosseguir debaixo da lei de Portugal.</p>
+            <div class="age-gate-btns">
+                <button id="btn-over-18" class="btn-ag btn-ag-primary">Tenho 18 anos ou mais</button>
+                <button id="btn-under-18" class="btn-ag btn-ag-secondary">Não tenho 18 anos</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Navegação Flutuante -->
+    <nav class="floating-nav">
+        <!-- Search icon (Left on mobile, hidden on desktop) -->
+        <button class="nav-icon-btn search-mobile-btn" id="search-open" title="Pesquisar">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+        </button>
+
+        <a href="#" class="brand-logo">
+            <img src="LOGO-SOTARVIL-1536x1536.png" alt="Sotarvil Logo" class="logo-img">
+            <span class="heading-font">SOTARVIL</span>
+        </a>
+
+        <div class="nav-links">
+            <a href="#inicio">Início</a>
+            <a href="#historia">A História</a>
+            <a href="#premios">Prémios</a>
+            <a href="catalogo.html">Catálogo Oficial</a>
+            <a href="#galeria">Galeria</a>
+            <a href="#contactos" class="nav-btn heading-font">Contactos B2B</a>
+        </div>
+
+        <!-- Hamburger (Right on mobile, hidden on desktop) -->
+        <button class="nav-icon-btn mobile-menu-toggle" id="menu-open">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <line x1="3" y1="12" x2="21" y2="12"></line>
+                <line x1="3" y1="6" x2="21" y2="6"></line>
+                <line x1="3" y1="18" x2="21" y2="18"></line>
+            </svg>
+        </button>
+    </nav>
+
+    <!-- Mobile Nav Overlay -->
+    <div class="mobile-nav-overlay" id="mobile-menu">
+        <div class="mobile-nav-header">
+            <div class="brand-logo">
+                <img src="LOGO-SOTARVIL-1536x1536.png" alt="Sotarvil Logo" class="logo-img" style="height: 35px;">
+                <span class="heading-font" style="font-size: 1.1rem;">SOTARVIL</span>
+            </div>
+            <button class="mobile-nav-close" id="menu-close">
+                <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <line x1="18" y1="6" x2="6" y2="18"></line>
+                    <line x1="6" y1="6" x2="18" y2="18"></line>
+                </svg>
+            </button>
+        </div>
+        <div class="mobile-nav-links">
+            <a href="#inicio">Início</a>
+            <a href="#historia">A História</a>
+            <a href="#premios">Prémios</a>
+            <a href="catalogo.html">Catálogo Oficial</a>
+            <a href="#galeria">Galeria</a>
+            <a href="#contactos">Contactos</a>
+        </div>
+        <div class="mobile-nav-footer">
+            <h4 class="heading-font">Contactos Rápidos</h4>
+            <div class="mobile-nav-contact-btm">
+                <a href="tel:232430770" class="social-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg></a>
+                <a href="mailto:geral@sotarvil.com" class="social-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline></svg></a>
+                <a href="https://www.facebook.com/sotarvil.lda" target="_blank" class="social-icon"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M22 12c0-5.523-4.477-10-10-10S2 6.477 2 12c0 4.991 3.657 9.128 8.438 9.878v-6.987h-2.54V12h2.54V9.797c0-2.506 1.492-3.89 3.777-3.89 1.094 0 2.238.195 2.238.195v2.46h-1.26c-1.243 0-1.63.771-1.63 1.562V12h2.773l-.443 2.89h-2.33v6.988C18.343 21.128 22 16.991 22 12z"/></svg></a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Search Overlay -->
+    <div class="search-overlay" id="search-overlay">
+        <div class="search-header">
+            <div class="brand-logo">
+                <img src="LOGO-SOTARVIL-1536x1536.png" alt="Sotarvil Logo" class="logo-img" style="height: 35px;">
+                <span class="heading-font" style="font-size: 1.1rem; color: #fff;">SOTARVIL</span>
+            </div>
+            <button class="search-close" id="search-close">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
+            </button>
+        </div>
+        <div class="search-main">
+            <h2 class="heading-font">O que procura hoje?</h2>
+            <div class="search-overlay-input-wrapper">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="color: var(--gold-accent);"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+                <input type="text" class="search-overlay-input" id="global-search-input" placeholder="Pesquisar no catálogo...">
+            </div>
+            <div class="search-overlay-results" id="global-search-results">
+                <!-- Results injected via JS -->
+            </div>
+        </div>
+    </div>
+
+
+    <!-- PÁGINA 1: INÍCIO (HOME) -->
+    <section id="inicio" class="hero-split">
+        <!-- Fundo de Vídeo (Frames) -->
+        <canvas id="hero-canvas"></canvas>
+        <div class="hero-overlay"></div>
+
+        <div class="hero-text fade-up">
+            <div class="pill-badge">Líder em Distribuição de Bebidas - Distrito de Viseu</div>
+            <h1 class="hero-title heading-font">O Motor da<br><span>Distribuição</span><br>B2B em Viseu.</h1>
+            <p class="hero-desc">Desde 1993, a Sotarvil é o parceiro estratégico para o canal HORECA. Somos <strong>Distribuidor Oficial Super Bock Group</strong>, entregando um portefólio premium com a fiabilidade que o seu estabelecimento exige.</p>
+            <div style="display: flex; gap: 1.5rem; flex-wrap: wrap; justify-content: center;">
+                <a href="catalogo.html" class="btn-primary heading-font">Consulte o nosso Catálogo</a>
+            </div>
+        </div>
+        <!-- Removido o visual-frame lateral para dar lugar ao fundo total -->
+    </section>
+
+    <!-- Destaque Oficial: Super Bock Group -->
+    <section class="official-partner-banner fade-up">
+        <div class="container container-wide">
+            <div class="partner-banner-flex">
+                <div class="partner-text">
+                    <h3 class="heading-font">Distribuidores Oficiais Super Bock Group</h3>
+                    <p>Somos distribuidores oficiais do <strong>Grupo Super Bock</strong>.</p>
+                </div>
+                <div class="partner-logo-box">
+                    <a href="https://www.superbockgroup.com" target="_blank" class="partner-link" title="Visitar Super Bock Group">
+                        <img src="LOGO%20SUPER%20BOCK%20GROUP.jpg" alt="Distribuidor Super Bock Group">
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- O que Fornecemos (Soluções Integrais) -->
+    <section class="section-padding" style="padding-top: 6rem; padding-bottom: 6rem;">
+        <div class="container">
+            <div class="text-center fade-up" style="max-width: 800px; margin: 0 auto;">
+                <h2 class="heading-font" style="font-size: 2.8rem; margin-bottom: 1.5rem;">Temos tudo o que o seu balcão precisa</h2>
+                <p style="color: var(--text-muted); font-size: 1.15rem; line-height: 1.8;">Desde o café logo de manhã até à cerveja de pressão ao final do dia. Trabalhamos com as melhores marcas para que no seu estabelecimento nunca falte nada:</p>
+            </div>
+            
+            <div class="shortcuts-grid fade-up">
+                <a href="categoria.html?cat=cervejas" class="shortcut-card">
+                    <h4 class="heading-font">Cervejas e Pressão</h4>
+                    <p>Garrafa, Lata e todo o sistema oficial Super Bock Group.</p>
+                </a>
+                <a href="categoria.html?cat=vinhos" class="shortcut-card">
+                    <h4 class="heading-font">Vinhos e Espirituosas</h4>
+                    <p>A melhor garrafeira: Douro, Dão, Alentejo e Destilados Premium.</p>
+                </a>
+                <a href="catalogo.html" class="shortcut-card">
+                    <h4 class="heading-font">Tudo para o dia-a-dia</h4>
+                    <p>Águas, Cafés, Néctares e até Alimentares e Detergentes.</p>
+                </a>
+            </div>
+
+            <div class="text-center fade-up" style="margin-top: 4rem;">
+                <a href="catalogo.html" class="btn-primary heading-font">Explorar Catálogo por Categoria</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- PÁGINA 2: HISTÓRIA (SOBRE NÓS) -->
+    <section id="historia" class="history-section">
+        <div class="container container-wide history-grid">
+            <div class="history-content fade-up">
+                <h2 class="history-title heading-font">SOBRE A SOTARVIL</h2>
+                <p>A <strong>SOTARVIL, Lda</strong>, fundada em 30 de junho de 1993, é a empresa de referência na distribuição por grosso de bebidas e produtos alimentares no distrito de Viseu. Com mais de três décadas de experiência, consolidámos a nossa posição como o parceiro logístico preferencial de centenas de estabelecimentos.</p>
+                <p>A nossa trajetória é marcada por sucessivas condecorações de mérito e prémios de <strong>Excelência em Serviço</strong>, integrados no Programa de Excelência (PEX) do nosso principal parceiro, o <strong>Super Bock Group</strong>.</p>
+                <p>A nossa missão é dotar o canal HORECA das melhores soluções de mercado, garantindo uma distribuição capilar eficiente e um apoio comercial especializado que supera os padrões da concorrência direta.</p>
+            </div>
+            <div class="history-visual fade-up">
+                <img src="galeria/armazem.png" alt="Armazém Sotarvil">
+                <img src="galeria/frente.png" alt="Instalações Sotarvil">
+            </div>
+        </div>
+    </section>
+
+    <!-- PRÉMIOS -->
+    <section id="premios" class="section-padding" style="background: var(--surface-1); padding-top: 5rem; padding-bottom: 5rem;">
+        <div class="container">
+            <div class="text-center fade-up" style="margin-bottom: 3.5rem;">
+                <h2 class="heading-font" style="font-size: 2.8rem;">PRÉMIOS RECEBIDOS</h2>
+                <p style="color: var(--text-muted); font-size: 1.1rem; margin-top: 0.8rem;">Distinções e reconhecimentos ao longo de mais de duas décadas de excelência no canal HORECA.</p>
+            </div>
+            <div class="fade-up" style="display: flex; flex-direction: column; gap: 0; max-width: 700px; margin: 0 auto; position: relative;">
+                <div style="position: absolute; left: 90px; top: 0; bottom: 0; width: 2px; background: linear-gradient(to bottom, var(--gold-accent), transparent);"></div>
+                <style>
+                    .award-year { display: flex; gap: 2rem; align-items: flex-start; margin-bottom: 2rem; }
+                    .award-year-label { min-width: 70px; text-align: right; font-weight: 800; font-size: 1.1rem; color: var(--gold-accent); font-family: 'Montserrat', sans-serif; padding-top: 0.15rem; }
+                    .award-year-dot { width: 14px; height: 14px; border-radius: 50%; background: var(--gold-accent); border: 2px solid var(--brand-deep); flex-shrink: 0; margin-top: 0.3rem; position: relative; z-index: 1; }
+                    .award-year-items { display: flex; flex-direction: column; gap: 0.3rem; }
+                    .award-year-items span { color: var(--text-primary); font-size: 1rem; }
+                </style>
+                <div class="award-year"><div class="award-year-label">2023</div><div class="award-year-dot"></div><div class="award-year-items"><span>Estrela de Bronze</span></div></div>
+                <div class="award-year"><div class="award-year-label">2016</div><div class="award-year-dot"></div><div class="award-year-items"><span>Estrela Operacional</span><span>Estrela Comercial</span></div></div>
+                <div class="award-year"><div class="award-year-label">2015</div><div class="award-year-dot"></div><div class="award-year-items"><span>Estrela de Ouro</span><span>Estrela Operacional</span><span>Estrela Comercial</span></div></div>
+                <div class="award-year"><div class="award-year-label">2014</div><div class="award-year-dot"></div><div class="award-year-items"><span>Estrela de Ouro</span><span>Estrela Operacional</span><span>Estrela Comercial</span></div></div>
+                <div class="award-year"><div class="award-year-label">2013</div><div class="award-year-dot"></div><div class="award-year-items"><span>Estrela Operacional</span><span>Estrela Comercial</span></div></div>
+                <div class="award-year"><div class="award-year-label">2012</div><div class="award-year-dot"></div><div class="award-year-items"><span>Estrela de Prata</span><span>Estrela Comercial</span><span>Estrela Operacional</span></div></div>
+                <div class="award-year"><div class="award-year-label">2011</div><div class="award-year-dot"></div><div class="award-year-items"><span>Estrela Operacional</span></div></div>
+                <div class="award-year"><div class="award-year-label">2010</div><div class="award-year-dot"></div><div class="award-year-items"><span>Estrela Operacional</span><span>Estrela Comercial</span></div></div>
+                <div class="award-year"><div class="award-year-label">2009</div><div class="award-year-dot"></div><div class="award-year-items"><span>Estrela Operacional</span><span>Excelência em Acção Comercial</span></div></div>
+                <div class="award-year"><div class="award-year-label">2008</div><div class="award-year-dot"></div><div class="award-year-items"><span>Estrela Regional da Beira 2007</span><span>Estrela de Bronze</span></div></div>
+                <div class="award-year"><div class="award-year-label">2006</div><div class="award-year-dot"></div><div class="award-year-items"><span>Estrela de Prata 2006</span><span>Excelência em Serviço</span></div></div>
+                <div class="award-year"><div class="award-year-label">2005</div><div class="award-year-dot"></div><div class="award-year-items"><span>Excelência em Serviço 2004</span><span>Estrela de Bronze</span></div></div>
+                <div class="award-year"><div class="award-year-label">2003</div><div class="award-year-dot"></div><div class="award-year-items"><span>Excelência em Serviço</span></div></div>
+                <div class="award-year"><div class="award-year-label">2002</div><div class="award-year-dot"></div><div class="award-year-items"><span>Estrela Regional das Beiras</span></div></div>
+                <div class="award-year"><div class="award-year-label">2001</div><div class="award-year-dot"></div><div class="award-year-items"><span>Excelência em Serviço</span></div></div>
+                <div class="award-year"><div class="award-year-label">2000</div><div class="award-year-dot"></div><div class="award-year-items"><span>Estrela de Bronze</span></div></div>
+                <div class="award-year"><div class="award-year-label">1997</div><div class="award-year-dot"></div><div class="award-year-items"><span>Estrela Regional das Beiras</span></div></div>
+            </div>
+        </div>
+    </section>
+
+    <!-- PÁGINA 3: ONDE TRABALHAMOS -->
+    <section id="onde-trabalhamos" class="section-padding" style="padding-top: 4rem; padding-bottom: 4rem;">
+        <div class="container container-wide">
+            <div class="text-center fade-up" style="margin-bottom: 2rem;">
+                <h2 class="heading-font" style="font-size: 2.8rem;">ONDE TRABALHAMOS</h2>
+                <p style="color: var(--text-muted); font-size: 1.15rem; max-width: 800px; margin: 1rem auto 0;">A Sotarvil faz a cobertura de 18 concelhos apresentados no mapa a seguir:</p>
+            </div>
+            
+            <div class="map-container fade-up" style="border-radius: var(--radius-md); overflow: hidden; box-shadow: 0 15px 30px rgba(0,0,0,0.5); z-index: 1; position: relative;">
+                <div id="coverage-map" style="height: 500px; width: 100%;"></div>
+            </div>
+
+            <!-- Leaflet JS for Map -->
+            <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
+            <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+            <script>
+                document.addEventListener('DOMContentLoaded', function() {
+                    var map = L.map('coverage-map').setView([40.6575, -7.9143], 9);
+                    
+                    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                        maxZoom: 19,
+                        attribution: '© OpenStreetMap'
+                    }).addTo(map);
+
+                    var locais = [
+                        {nome: "Viseu", coords: [40.6575, -7.9143]},
+                        {nome: "Mangualde", coords: [40.6038, -7.7607]},
+                        {nome: "Sernancelhe", coords: [40.8995, -7.4957]},
+                        {nome: "Aguiar da Beira", coords: [40.8174, -7.5401]},
+                        {nome: "Penedono", coords: [40.9884, -7.3941]},
+                        {nome: "Vila Nova de Paiva", coords: [40.8491, -7.7289]},
+                        {nome: "Castro Daire", coords: [40.9004, -7.9332]},
+                        {nome: "São Pedro do Sul", coords: [40.7582, -8.0722]},
+                        {nome: "Vouzela", coords: [40.7230, -8.1132]},
+                        {nome: "Oliveira de Frades", coords: [40.7328, -8.1751]},
+                        {nome: "Tondela", coords: [40.5173, -8.0818]},
+                        {nome: "Carregal do Sal", coords: [40.4350, -7.9959]},
+                        {nome: "Nelas", coords: [40.5312, -7.8541]},
+                        {nome: "Tábua", coords: [40.3789, -8.0289]},
+                        {nome: "Santa Comba Dão", coords: [40.3986, -8.1345]},
+                        {nome: "Mortágua", coords: [40.3948, -8.2294]},
+                        {nome: "Penalva do Castelo", coords: [40.6763, -7.6993]},
+                        {nome: "Sátão", coords: [40.7431, -7.7346]}
+                    ];
+
+                    locais.forEach(function(local) {
+                        L.marker(local.coords).addTo(map)
+                            .bindPopup("<b>" + local.nome + "</b>");
+                    });
+                });
+            </script>
+        </div>
+    </section>
+
+    <!-- PÁGINA 4: GALERIA MASONRY -->
+    <section id="galeria" class="gallery-section">
+        <div class="container container-wide">
+            <div class="text-center fade-up" style="margin-bottom: 3rem;">
+                <h2 class="heading-font" style="font-size: 3rem;">Galeria Espacial</h2>
+                <p style="color: var(--text-muted); max-width: 650px; margin: 1rem auto 0; font-size: 1.1rem;">Vislumbres fotográficos das frotas e enquadramentos organizacionais no amplo armazém de distribuição.</p>
+            </div>
+            
+            <div class="masonry-grid fade-up">
+                <div class="masonry-item">
+                    <img src="galeria/armazem.png" alt="Armazém Sotarvil">
+                </div>
+                <div class="masonry-item">
+                    <img src="galeria/armazem 2.png" alt="Armazém Sotarvil Interior">
+                </div>
+                <div class="masonry-item">
+                    <img src="galeria/barris.png" alt="Barris de Cerveja">
+                </div>
+                <div class="masonry-item">
+                    <img src="galeria/camiao super stout.png" alt="Camião Sotarvil Super Stout">
+                </div>
+                <div class="masonry-item">
+                    <img src="galeria/empilhador.png" alt="Empilhador no Armazém">
+                </div>
+                <div class="masonry-item">
+                    <img src="galeria/frente.png" alt="Frente das Instalações">
+                </div>
+                <div class="masonry-item">
+                    <img src="galeria/hall.png" alt="Hall de Entrada">
+                </div>
+                <div class="masonry-item">
+                    <img src="galeria/hall 2 piso.png" alt="Hall 2º Piso">
+                </div>
+                <div class="masonry-item">
+                    <img src="galeria/jardim.png" alt="Jardim e Exterior">
+                </div>
+                <div class="masonry-item">
+                    <img src="galeria/premio.jpg" alt="Prémio de Excelência">
+                </div>
+                <div class="masonry-item">
+                    <img src="galeria/smart.png" alt="Viatura Smart Sotarvil">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- PÁGINA 5: CONTACTOS -->
+    <section id="contactos" class="contact-section">
+        <div class="container container-wide">
+            <div class="contact-grid">
+                <div class="contact-info fade-up">
+                    <h2 class="heading-font">Contactos Comerciais</h2>
+                    <p>Encontra dificuldades no abastecimento rotineiro do seu estabelecimento? Nós tratamos de preencher quaisquer lacunas com os nossos veículos modernos e a equipa mais capaz e pronta do mercado.</p>
+                    
+                    <div class="info-row">
+                        <div class="info-icon">
+                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>
+                        </div>
+                        <div class="info-text">
+                            <h4 class="heading-font">Telefone</h4>
+                            <p><a href="tel:232430770" style="color:inherit;">232 430 770</a></p>
+                        </div>
+                    </div>
+
+                    <div class="info-row">
+                        <div class="info-icon">
+                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline></svg>
+                        </div>
+                        <div class="info-text">
+                            <h4 class="heading-font">Email Geral</h4>
+                            <p><a href="mailto:geral@sotarvil.com" style="color:inherit;">geral@sotarvil.com</a></p>
+                        </div>
+                    </div>
+
+                    <div class="info-row">
+                        <div class="info-icon">
+                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                        </div>
+                        <div class="info-text">
+                            <h4 class="heading-font">Morada</h4>
+                            <p>Queimadas, Sernada<br>3505-330 Santos Evos – Viseu</p>
+                            <p style="font-size:0.85rem; opacity:0.7; margin-top:0.3rem;">GPS: 40º 40' 51" N | 7º 50' 43.27" W</p>
+                            <p style="margin-top:0.5rem;"><a href="https://www.google.com/maps/search/?api=1&query=40.6808,-7.8453" target="_blank" style="color:var(--gold-accent); font-weight:600; font-size:0.9rem; text-decoration:underline;">Como Chegar (Google Maps)</a></p>
+                        </div>
+                    </div>
+
+                    <div class="info-row">
+                        <div class="info-icon">
+                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
+                        </div>
+                        <div class="info-text">
+                            <h4 class="heading-font">Horário de Funcionamento</h4>
+                            <p>Segunda a Sexta<br>08:30 – 12:30 &nbsp;|&nbsp; 14:30 – 18:30</p>
+                        </div>
+                    </div>
+
+                    <div class="info-row">
+                        <div class="info-icon">
+                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline></svg>
+                        </div>
+                        <div class="info-text">
+                            <h4 class="heading-font">Reclamações</h4>
+                            <p><a href="mailto:reclamacoes@sotarvil.com" style="color:inherit;">reclamacoes@sotarvil.com</a></p>
+                        </div>
+                    </div>
+
+                    <!-- Interactive Map -->
+                    <div style="margin-top: 3rem; border-radius: var(--radius-md); overflow: hidden; box-shadow: 0 15px 30px rgba(0,0,0,0.5);">
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3034.7!2d-7.8453528!3d40.6808333!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDQwJzUxLjAiTiA3wrA1MCc0My4zIlc!5e0!3m2!1spt-PT!2spt!4v1700000000000!5m2!1spt-PT!2spt" width="100%" height="250" style="border:0;" allowfullscreen="" loading="lazy" title="Mapa Sotarvil - Santos Evos, Viseu"></iframe>
+                    </div>
+                </div>
+                
+                <div class="contact-form fade-up" style="transition-delay: 200ms;">
+                    <h3 class="heading-font" style="font-size: 2.1rem; margin-bottom: 2.5rem;">Requisição de Acesso</h3>
+                    <form action="#" method="POST">
+                        <div class="form-group">
+                            <label class="form-label">Nome Institucional / Responsável</label>
+                            <input type="text" class="form-control" name="name" required placeholder="Escreva aqui...">
+                        </div>
+                        <div class="form-group">
+                            <label class="form-label">Nome do Estabelecimento Comercial</label>
+                            <input type="text" class="form-control" name="company" required placeholder="Café e Snack-bar...">
+                        </div>
+                        <div class="form-group" style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem;">
+                            <div>
+                                <label class="form-label">Telefone Fixo ou Telemóvel</label>
+                                <input type="tel" class="form-control" name="phone" required placeholder="+351 900...">
+                            </div>
+                            <div>
+                                <label class="form-label">E-mail Profissional</label>
+                                <input type="email" class="form-control" name="email" required placeholder="gerência@exemplo.pt">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="form-label">Lista de Interesses Opcionais</label>
+                            <textarea class="form-control" name="message" required placeholder="Descreva as marcas abrangentes que tenciona agendar..."></textarea>
+                        </div>
+                        <button type="submit" class="heading-font btn-submit">Efetivar Pedido Contratual</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- FAQ SECTION (GEO Optimization) -->
+    <section id="faq" class="faq-section">
+        <div class="container">
+            <div class="section-title fade-up">
+                <span class="subtitle">Dúvidas Comuns</span>
+                <h2 class="heading-font">Perguntas Frequentes</h2>
+            </div>
+            
+            <div class="faq-grid fade-up">
+                <div class="faq-item">
+                    <h4 class="faq-question heading-font">Quem é o distribuidor oficial Super Bock em Viseu?</h4>
+                    <p class="faq-answer">A Sotarvil é o parceiro oficial e exclusivo do <strong>Super Bock Group</strong> no distrito de Viseu há mais de 30 anos, garantindo a distribuição de marcas líderes como Super Bock, Vitalis, Pedras Salgadas e Somersby.</p>
+                </div>
+                
+                <div class="faq-item">
+                    <h4 class="faq-question heading-font">Como posso encomendar bebidas para o meu negócio?</h4>
+                    <p class="faq-answer">Se gere um café, restaurante ou hotel no distrito de Viseu, pode solicitar a abertura de conta e agendar uma visita comercial através do nosso formulário de contacto ou pelo telefone direto 232 430 770.</p>
+                </div>
+
+                <div class="faq-item">
+                    <h4 class="faq-question heading-font">Quais as marcas disponíveis no catálogo da Sotarvil?</h4>
+                    <p class="faq-answer">O nosso catálogo abrange toda a gama do Super Bock Group, além de uma seleção curada de Vinhos (Dão, Douro, Alentejo), Bebidas Brancas premium (Xarão, Gins, Whiskys) e Cafés.</p>
+                </div>
+
+                <div class="faq-item">
+                    <h4 class="faq-question heading-font">A Sotarvil faz entregas regulares?</h4>
+                    <p class="faq-answer">Sim, mantemos rotas de entrega diárias e semanais por todo o distrito de Viseu, assegurando que o stock do seu estabelecimento nunca falha.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- LEGAL MODALS -->
+    <div class="legal-modal-overlay" id="legal-modal">
+        <div class="legal-modal-content">
+            <button class="legal-modal-close" onclick="closeLegalModal()">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <line x1="18" y1="6" x2="6" y2="18"></line>
+                    <line x1="6" y1="6" x2="18" y2="18"></line>
+                </svg>
+            </button>
+            <div id="modal-content"></div>
+        </div>
+    </div>
+
+    <!-- FOOTER -->
+    <footer class="main-footer pt-pt-norm">
+        <div class="container container-wide">
+            <div class="footer-grid fade-up">
+                <div class="brand-col">
+                    <div class="footer-logo-wrapper">
+                        <img src="LOGO-SOTARVIL-1536x1536.png" alt="Sotarvil Assinatura" class="footer-logo">
+                    </div>
+                    <p class="footer-about">Trazemos fiabilidade integral a todo o distrito, enquadrando as marcas de sumo requinte nos balcões exigentes. Nós somos orgulhosamente <strong>Distribuidor Oficial Super Bock Group</strong>.</p>
+                    <div class="social-links">
+                        <a href="https://www.facebook.com/sotarvil.lda" target="_blank" class="social-icon" title="Sotarvil no Facebook">
+                            <svg viewBox="0 0 24 24" fill="currentColor"><path d="M22 12c0-5.523-4.477-10-10-10S2 6.477 2 12c0 4.991 3.657 9.128 8.438 9.878v-6.987h-2.54V12h2.54V9.797c0-2.506 1.492-3.89 3.777-3.89 1.094 0 2.238.195 2.238.195v2.46h-1.26c-1.243 0-1.63.771-1.63 1.562V12h2.773l-.443 2.89h-2.33v6.988C18.343 21.128 22 16.991 22 12z"/></svg>
+                        </a>
+                        <a href="https://comportugal.com/imagesmediaupload/sotarvil/media/1761951710_1840574383_1122170631_1477569554.pdf" target="_blank" class="social-icon" title="POLÍTICA DE PRIVACIDADE E PROTEÇÃO DE DADOS">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/><polyline points="10 9 9 9 8 9"/></svg>
+                        </a>
+                        <a href="https://www.cniacc.pt/pt/" target="_blank" class="social-icon" title="CNIACC - Resolução de Conflitos de Consumo">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/></svg>
+                        </a>
+                        <a href="https://www.livroreclamacoes.pt/Inicio/" target="_blank" class="social-icon" title="Livro de Reclamações Eletrónico">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg>
+                        </a>
+                    </div>
+                </div>
+                <div class="links-col">
+                    <h4 class="footer-title heading-font">Hiperligações Rápidas</h4>
+                    <div class="footer-links">
+                        <a href="#inicio">Homepage Início</a>
+                        <a href="#historia">O Percurso SOTARVIL</a>
+                        <a href="catalogo.html">Catálogo Online</a>
+                        <a href="#galeria">Dinamismo em Acção</a>
+                    </div>
+                </div>
+                <div class="links-col">
+                    <h4 class="footer-title heading-font">Trâmites e Condicionantes</h4>
+                    <div class="footer-links">
+                        <a href="#" onclick="openLegalModal('termos'); return false;">Termos e Condições B2B</a>
+                        <a href="#" onclick="openLegalModal('faturacao'); return false;">Política de Faturação Rápida</a>
+                        <a href="#" onclick="openLegalModal('privacidade'); return false;">Avisos Legais de Privacidade</a>
+                        <a href="#" onclick="openLegalModal('responsavel'); return false;">Compromisso Responsável 18+</a>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom fade-up">
+                <p>&copy; <span id="year"></span> SOTARVIL - Distribuição de Bebidas, Lda. Todos os direitos devidamente acautelados e garantidos ao abrigo corporativo.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- INTERACTIVIDADE BÁSICA JAVASCRIPT -->
+    <script src="hero-video.js"></script>
+    <script src="productsDB.js?v=20260331"></script>
+    <script src="search.js"></script>
+    <script src="app.js?v=20260331v4"></script>
+    <script>document.getElementById('year').textContent = new Date().getFullYear();</script>
+
+    <!-- Scripts Adicionais -->
+    <script>
+        // Year logic remains
+        document.getElementById('year').textContent = new Date().getFullYear();
+    </script>
+
+    <script>
+        const legalContents = {
+            termos: `
+                <h1 class="heading-font">Termos e Condições B2B</h1>
+                <p><strong>SOTARVIL - Distribuição de Bebidas, Lda.</strong></p>
+                
+                <h2>1. Objeto</h2>
+                <p>Os presentes Termos e Condições regulam a relação comercial entre a SOTARVIL - Distribuição de Bebidas, Lda., com sede em Queimadas, Sernada, 3505-330 Santos Evos – Viseu, e os seus clientes do canal HORECA (Hotéis, Restaurantes e Cafés).</p>
+                
+                <h2>2. Acesso ao Catálogo</h2>
+                <p>O acesso ao catálogo online e aos serviços de distribuição da Sotarvil está reservado exclusivamente a profissionais do setor de restauração e bebidas. Ao solicitar o acesso, o cliente declara ser um profissional do canal HORECA e aceita integralmente as presentes condições.</p>
+                
+                <h2>3. Encomendas e Entregas</h2>
+                <p>As encomendas são processadas mediante contacto direto com a nossa equipa comercial ou através do catálogo online. A Sotarvil assegura entregas regulares no distrito de Viseu, com rotas pré-definidas.</p>
+                
+                <h2>4. Pagamentos</h2>
+                <p>Os pagamentos são realizados de acordo com as condições acordadas individualmente com cada cliente. A Sotarvil reserva-se o direito de suspender entregas a clientes com pendências financeiras até à regularização.</p>
+                
+                <h2>5. Política de Devoluções</h2>
+                <p>Apenas são aceites devoluções de produtos danificados durante o transporte ou com defeitos de fabrico. As reclamações devem ser efetuadas no prazo de 48 horas após a entrega.</p>
+                
+                <h2>6. Lei Aplicável</h2>
+                <p>Os presentes Termos e Condições são regidos pela lei portuguesa. Qualquer litígio será resolvido pelos tribunais competentes de Viseu.</p>
+                
+                <p style="margin-top: 3rem; font-size: 0.9rem; opacity: 0.6;"><em>Última atualização: 2026</em></p>
+            `,
+            faturacao: `
+                <h1 class="heading-font">Política de Faturação Rápida</h1>
+                
+                <h2>1. Emissão de Faturas</h2>
+                <p>A SOTARVIL compromete-se a emitir faturas no prazo máximo de 48 horas após a entrega de mercadorias. As faturas são automaticamente enviadas por e-mail para o contacto indicado pelo cliente.</p>
+                
+                <h2>2. Formato das Faturas</h2>
+                <p>As faturas são emitidas em formato digital (PDF) e cumprir todas as obrigações legais previstas no Código do IVA e na legislação fiscal portuguesa em vigor.</p>
+                
+                <h2>3. Contacto para Faturação</h2>
+                <p>Para questões relacionadas com faturação, contacte-nos através de:</p>
+                <p><strong>Email:</strong> <a href="mailto:faturacao@sotarvil.com">faturacao@sotarvil.com</a></p>
+                <p><strong>Telefone:</strong> 232 430 770</p>
+                
+                <h2>4. Métodos de Pagamento</h2>
+                <p>Aceitamos os seguintes métodos de pagamento: transferência bancária, multibanco e cheque. As condições de pagamento são acordadas individualmente com cada cliente B2B.</p>
+                
+                <p style="margin-top: 3rem; font-size: 0.9rem; opacity: 0.6;"><em>Última atualização: 2026</em></p>
+            `,
+            privacidade: `
+                <h1 class="heading-font">Avisos Legais de Privacidade</h1>
+                
+                <h2>1. Responsável pelo Tratamento</h2>
+                <p>A SOTARVIL - Distribuição de Bebidas, Lda., com sede em Queimadas, Sernada, 3505-330 Santos Evos – Viseu, é a entidade responsável pelo tratamento dos seus dados pessoais.</p>
+                
+                <h2>2. Dados Pessoais Recolhidos</h2>
+                <p>Recolhemos os seguintes dados pessoais: nome, endereço de e-mail, número de telefone, morada de faturação e entrega, NIF e dados de atividade comercial.</p>
+                
+                <h2>3. Finalidades do Tratamento</h2>
+                <p>Os seus dados pessoais são utilizados para: gestão da relação comercial, processamento de encomendas e entregas, faturação e cumprimento de obrigações legais.</p>
+                
+                <h2>4. Os Seus Direitos</h2>
+                <p>Nos termos do RGPD, tem direito a: acesso aos seus dados, retificação, apagamento, limitação do tratamento, oposição e portabilidade. Pode exercer estes direitos através dos contactos indicados.</p>
+                
+                <h2>5. Encarregado de Proteção de Dados</h2>
+                <p>Para questões relacionadas com a proteção dos seus dados pessoais, contacte-nos através dos nossos canais habituais de comunicação.</p>
+                
+                <p style="margin-top: 3rem; font-size: 0.9rem; opacity: 0.6;"><em>Última atualização: 2026</em></p>
+            `,
+            responsavel: `
+                <h1 class="heading-font">Compromisso Responsável 18+</h1>
+                
+                <div class="warning-box-modal">
+                    <p><strong>A venda de bebidas alcoólicas a menores de 18 anos é proibida.</strong></p>
+                </div>
+                
+                <h2>1. O Nosso Compromisso</h2>
+                <p>A SOTARVIL é distribuidor oficial de bebidas alcoólicas e assume um compromisso firme com a promoção do consumo responsável.</p>
+                
+                <h2>2. Responsabilidade no Canal HORECA</h2>
+                <p>Como parceiro estratégico do canal HORECA, incentivamos os nossos clientes a implementar práticas responsáveis de venda e serviço de bebidas alcoólicas.</p>
+                
+                <h2>3. Campanhas de Sensibilização</h2>
+                <p>Apoiamos ativamente a campanha <strong>"Beba com Moderação"</strong> e todas as iniciativas promovidas pelo Association of European Brewers.</p>
+                
+                <h2>4. Recursos</h2>
+                <p>Para mais informações sobre consumo responsável de álcool, consulte as campanhas oficiais promovidas em Portugal.</p>
+                
+                <p style="margin-top: 3rem; font-size: 0.9rem; opacity: 0.6;"><em>Última atualização: 2026</em></p>
+            `
+        };
+
+        function openLegalModal(type) {
+            const modal = document.getElementById('legal-modal');
+            const content = document.getElementById('modal-content');
+            content.innerHTML = legalContents[type];
+            modal.classList.add('active');
+            document.body.style.overflow = 'hidden';
+        }
+
+        function closeLegalModal() {
+            const modal = document.getElementById('legal-modal');
+            modal.classList.remove('active');
+            document.body.style.overflow = 'auto';
+        }
+
+        document.getElementById('legal-modal').addEventListener('click', function(e) {
+            if (e.target === this) {
+                closeLegalModal();
+            }
+        });
+    </script>
+</body>
+</html>

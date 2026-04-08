@@ -1,0 +1,9 @@
+.DS_Store
+Thumbs.db
+.gemini/
+.agent/
+.agents/
+*.tmp
+*.log
+*.swp
+desktop.ini

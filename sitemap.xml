@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://www.sotarvil.pt/index.html</loc>
+    <lastmod>2026-03-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.sotarvil.pt/catalogo.html</loc>
+    <lastmod>2026-03-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <!-- Categories -->
+  <url><loc>https://www.sotarvil.pt/categoria.html?cat=vinhos</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.sotarvil.pt/categoria.html?cat=cervejas</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.sotarvil.pt/categoria.html?cat=aguas</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.sotarvil.pt/categoria.html?cat=bebidas-brancas</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.sotarvil.pt/categoria.html?cat=refrigerantes</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.sotarvil.pt/categoria.html?cat=cafes</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.sotarvil.pt/categoria.html?cat=la-casera</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.sotarvil.pt/categoria.html?cat=pressao</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+</urlset>
