@@ -558,6 +558,20 @@ textarea.form-control { min-height: 150px; resize: vertical; }
     text-align: center; 
     gap: 3rem; 
   }
+  .catalog-layout {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+  .catalog-sidebar {
+    position: relative;
+    top: 0;
+    max-height: none;
+  }
+  .footer-grid {
+    grid-template-columns: 1fr;
+    text-align: center;
+    gap: 3rem;
+  }
   .contact-info { text-align: left; }
   .contact-info h2 { font-size: 2.5rem; text-align: center; }
   .contact-info > p { text-align: center; }
