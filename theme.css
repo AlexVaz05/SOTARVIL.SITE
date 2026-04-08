@@ -1922,13 +1922,13 @@ textarea.form-control {
 }
 
 .product-img {
-  max-width: 98%;
-  max-height: 98%;
-  width: auto;
-  height: auto;
-  object-fit: contain;
-  opacity: 0;
-  transition: opacity 0.8s ease-in-out;
+    width: 100%;
+    height: 100%;
+    max-width: 98%;
+    max-height: 98%;
+    object-fit: contain;
+    opacity: 0;
+    transition: opacity 0.8s ease-in-out;
 }
 
 .product-img.loaded {
@@ -2077,6 +2077,8 @@ textarea.form-control {
 }
 
 .product-modal-main-img {
+  width: 100%;
+  height: 100%;
   max-width: 98%;
   max-height: 380px;
   object-fit: contain;
