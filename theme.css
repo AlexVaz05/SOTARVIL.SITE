@@ -1702,6 +1702,44 @@ textarea.form-control {
   .budget-btn:hover {
     transform: translateX(-50%) translateY(-5px);
   }
+
+  /* Catalog grid - single column on phones */
+  .catalog-grid {
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+  }
+
+  /* Category page header */
+  .catalog-page-header h1 {
+    font-size: 2rem;
+  }
+
+  .category-title {
+    font-size: 2rem !important;
+  }
+
+  /* Form two-column to single column */
+  .form-group[style*="grid-template-columns"] {
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 1rem !important;
+  }
+
+  /* Footer center align on mobile */
+  .footer-about {
+    margin: 0 auto;
+  }
+  .social-links {
+    justify-content: center;
+  }
+  .links-col {
+    text-align: center;
+  }
+
+  /* History section mobile */
+  .history-visual {
+    min-height: 300px;
+  }
 }
 
 
