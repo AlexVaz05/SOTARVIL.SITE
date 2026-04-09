@@ -4,7 +4,7 @@
 [Console]::OutputEncoding = [System.Text.Encoding]::UTF8
 $OutputEncoding = [System.Text.Encoding]::UTF8
 
-$baseDir = "C:\Users\vazfa\.gemini\antigravity\scratch\sotarvil"
+$baseDir = "C:\Users\vazfa\OneDrive\Documentos\GitHub\SOTARVIL.SITE"
 $produtosDir = Join-Path $baseDir "produtos"
 $outputFile = Join-Path $baseDir "productsDB.js"
 
@@ -90,7 +90,7 @@ foreach ($itemCategory in Get-ChildItem -Path $produtosDir -Directory) {
         $groupFolders[$cleanName] = $fold.FullName
     }
 
-    foreach ($item in Get-ChildItem -Path $itemCategory.FullName -Recurse) {
+    foreach ($item in (Get-ChildItem -Path $itemCategory.FullName -Recurse | Sort-Object Name)) {
         $relPath = ($item.FullName.Replace($produtosDir + "\", "")).Replace("\", "/")
         $parts = $relPath.Split("/")
         
