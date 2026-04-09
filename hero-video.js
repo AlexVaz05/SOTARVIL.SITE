@@ -38,26 +38,45 @@ class HeroVideo {
     }
 
     preloadFrames() {
-        for (let i = 1; i <= this.totalFrames; i++) {
+        // Pre-allocate array
+        this.frames = new Array(this.totalFrames);
+        
+        // Load the first frame immediately so background isn't blank
+        this.loadFrame(1).then(() => {
+            this.drawFrame(0);
+            
+            // Start the animation loop and load the rest
+            this.start();
+            this.loadRemainingFrames();
+        });
+    }
+
+    loadFrame(i) {
+        return new Promise((resolve) => {
             const img = new Image();
-            // Naming convention: ezgif-frame-001.jpg
-            const frameNum = String(i).padStart(3, '0');
-            img.src = `${this.framePath}ezgif-frame-${frameNum}.jpg`;
             img.onload = () => {
                 this.loadedCount++;
-                if (this.loadedCount === this.totalFrames && !this.isPlaying) {
-                    this.start();
-                }
+                resolve();
             };
-            this.frames.push(img);
-        }
-        
-        // Emergency start if some images fail but we have enough
-        setTimeout(() => {
-            if (!this.isPlaying && this.loadedCount > 20) {
-                this.start();
+            img.onerror = () => {
+                // Resolve anyway so we don't block the sequence
+                resolve();
+            };
+            const frameNum = String(i).padStart(3, '0');
+            img.src = `${this.framePath}ezgif-frame-${frameNum}.jpg`;
+            this.frames[i - 1] = img;
+        });
+    }
+
+    async loadRemainingFrames() {
+        const chunkSize = 8; // Load 8 images concurrently
+        for (let i = 2; i <= this.totalFrames; i += chunkSize) {
+            const promises = [];
+            for (let j = 0; j < chunkSize && (i + j) <= this.totalFrames; j++) {
+                promises.push(this.loadFrame(i + j));
             }
-        }, 5000);
+            await Promise.all(promises);
+        }
     }
 
     drawFrame(index) {
@@ -96,8 +115,14 @@ class HeroVideo {
         const interval = 1000 / fps;
 
         if (elapsed >= interval) {
-            this.currentFrame = (this.currentFrame + 1) % this.totalFrames;
-            this.drawFrame(this.currentFrame);
+            // Only advance frame if the *next* frame is fully loaded
+            const nextFrame = (this.currentFrame + 1) % this.totalFrames;
+            
+            if (this.frames[nextFrame] && this.frames[nextFrame].complete) {
+                this.currentFrame = nextFrame;
+                this.drawFrame(this.currentFrame);
+            }
+            
             this.lastTime = timestamp - (elapsed % interval);
         }
         
