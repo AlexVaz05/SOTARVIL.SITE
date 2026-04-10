@@ -2222,5 +2222,5 @@ textarea.form-control {
 
 /* Custom image scaling for Super Bock Original 33cl to bypass transparent margin constraints */
 img[src*="Super_Bock_Original%2033cl"], img[src*="Super_Bock_Original 33cl"] {
-  transform: scale(1.35) !important;
+  transform: scale(1.18) !important;
 }
