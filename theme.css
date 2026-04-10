@@ -249,7 +249,7 @@ a {
 }
 
 .logo-img {
-  height: 48px;
+  height: 65px;
   width: auto;
   object-fit: contain;
   transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
@@ -1007,6 +1007,7 @@ textarea.form-control {
   grid-template-columns: 2fr 1fr 1fr;
   gap: 4rem;
   margin-bottom: 4rem;
+  align-items: start;
 }
 
 .footer-logo-wrapper {
