@@ -2219,3 +2219,8 @@ textarea.form-control {
 .product-card:hover .product-name {
   color: var(--gold-accent);
 }
+
+/* Custom image scaling for Super Bock Original 33cl to bypass transparent margin constraints */
+img[src*="Super_Bock_Original%2033cl"], img[src*="Super_Bock_Original 33cl"] {
+  transform: scale(1.35) !important;
+}
