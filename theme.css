@@ -1010,15 +1010,12 @@ textarea.form-control {
 }
 
 .footer-logo-wrapper {
-  background: #fff;
   display: inline-block;
-  padding: 1.2rem 2.5rem;
-  border-radius: 10px;
   margin-bottom: 1.5rem;
 }
 
 .footer-logo {
-  height: 80px;
+  height: 90px;
   width: auto;
   max-width: 100%;
   object-fit: contain;
