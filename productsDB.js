@@ -2446,27 +2446,6 @@
                                    {
                                        "variants":  [
                                                         {
-                                                            "img":  "produtos/cervejas/engarrafadas/Cristal/0_Cristal%201L.png",
-                                                            "name":  "1L"
-                                                        },
-                                                        {
-                                                            "img":  "produtos/cervejas/engarrafadas/Cristal/1_Cristal%20Branca.png",
-                                                            "name":  "Branca"
-                                                        }
-                                                    ],
-                                       "subCategory":  "",
-                                       "hierarchy":  "engarrafadas",
-                                       "type":  "",
-                                       "desc":  "Cerveja ligeira e refrescante, com um cariz popular e tradição em Portugal. Ideal para o convívio diário.",
-                                       "name":  "Cristal",
-                                       "img":  "produtos/cervejas/engarrafadas/Cristal/0_Cristal%201L.png",
-                                       "isGroup":  true,
-                                       "brand":  "Cristal",
-                                       "cat":  "cervejas"
-                                   },
-                                   {
-                                       "variants":  [
-                                                        {
                                                             "img":  "produtos/cervejas/engarrafadas/Carlsberg/0_Garrafa.png",
                                                             "name":  "Garrafa"
                                                         },
@@ -2574,6 +2553,27 @@
                                        "hierarchy":  "engarrafadas",
                                        "brand":  "engarrafadas",
                                        "subCategory":  ""
+                                   },
+                                   {
+                                       "variants":  [
+                                                        {
+                                                            "img":  "produtos/cervejas/engarrafadas/Cristal/0_Cristal%20Branca.png",
+                                                            "name":  "Branca"
+                                                        },
+                                                        {
+                                                            "img":  "produtos/cervejas/engarrafadas/Cristal/1_Cristal%201L.png",
+                                                            "name":  "1L"
+                                                        }
+                                                    ],
+                                       "subCategory":  "",
+                                       "hierarchy":  "engarrafadas",
+                                       "type":  "",
+                                       "desc":  "Cerveja ligeira e refrescante, com um cariz popular e tradição em Portugal. Ideal para o convívio diário.",
+                                       "name":  "Cristal",
+                                       "img":  "produtos/cervejas/engarrafadas/Cristal/0_Cristal%20Branca.png",
+                                       "isGroup":  true,
+                                       "brand":  "Cristal",
+                                       "cat":  "cervejas"
                                    }
                                ],
                      "title":  "Cervejas"

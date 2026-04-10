@@ -217,10 +217,18 @@ foreach ($catKey in $tempDb.Keys) {
 
     if ($catKey -eq "cervejas") {
         $sbOriginalID = ""
-        foreach ($id in $sortedProdIDs) { if ($id -match "Super Bock Original") { $sbOriginalID = $id; break } }
+        $cristalID = ""
+        foreach ($id in $sortedProdIDs) { 
+            if ($id -match "Super Bock Original") { $sbOriginalID = $id }
+            if ($id -match "Cristal" -and $id -notmatch "Super Bock") { $cristalID = $id }
+        }
         if ($sbOriginalID) { 
             $sortedProdIDs.Remove($sbOriginalID) | Out-Null
             $sortedProdIDs.Insert(0, $sbOriginalID) 
+        }
+        if ($cristalID) {
+            $sortedProdIDs.Remove($cristalID) | Out-Null
+            $sortedProdIDs.Add($cristalID)
         }
     }
 
