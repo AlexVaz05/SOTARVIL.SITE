@@ -65,8 +65,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const resultsDropdown = document.getElementById('global-search-results');
     
     // Also support the original catalog page search if present
-    const catalogSearchInput = document.querySelector('.catalog-layout .search-input');
-    const catalogResultsDropdown = document.querySelector('.catalog-layout .search-results-dropdown');
+    const catalogSearchInput = document.querySelector('.search-container .search-input');
+    const catalogResultsDropdown = document.querySelector('.search-container .search-results-dropdown');
 
     if (!searchInput && !catalogSearchInput) return;
 

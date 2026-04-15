@@ -1,6 +1,6 @@
 Add-Type -AssemblyName System.Drawing
 
-function Trim-Image {
+function Optimize-Image {
     param ($Path)
     $fullPath = Resolve-Path $Path -ErrorAction SilentlyContinue
     if (-Not $fullPath) {
@@ -44,7 +44,7 @@ function Trim-Image {
     }
 }
 
-Trim-Image ".\logo-secundario-escuro.png"
-Trim-Image ".\logo-principal-escuro.png"
-Trim-Image ".\logo-principal.png"
-Trim-Image ".\logo-simbolo-escuro.png"
+Optimize-Image ".\logo-secundario-escuro.png"
+Optimize-Image ".\logo-principal-escuro.png"
+Optimize-Image ".\logo-principal.png"
+Optimize-Image ".\logo-simbolo-escuro.png"
