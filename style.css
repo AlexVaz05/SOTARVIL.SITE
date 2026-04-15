@@ -29,7 +29,7 @@ html {
 }
 
 body {
-  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  font-family: 'DM Sans', system-ui, -apple-system, sans-serif;
   color: var(--text-main);
   background-color: var(--bg-main);
   line-height: 1.6;
