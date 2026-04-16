@@ -525,8 +525,8 @@
                                         {
                                             "type":  "",
                                             "desc":  "Especialista em misturas premium. O toque de sofisticação essencial para o seu bar.",
-                                            "img":  "produtos/Refrigerantes/Schweppes/2_Scheweppes%20Soda.png",
-                                            "name":  "2 Scheweppes Soda",
+                                            "img":  "produtos/Refrigerantes/Schweppes/2_Schweppes%20Soda.png",
+                                            "name":  "2 Schweppes Soda",
                                             "cat":  "refrigerantes",
                                             "hierarchy":  "Schweppes",
                                             "brand":  "Schweppes",
@@ -2782,7 +2782,7 @@
                                    },
                                    {
                                        "type":  "",
-                                       "desc":  "O sabor clássico e revigorante da laranja, ideal para acompanhar as suas refeições. Refrescância natural e sumarenta em cada gole.",
+                                       "desc":  "Bebida refrescante com todo o sabor da fruta e a garantia de qualidade do Super Bock Group. O sabor da fruta em formato familiar.",
                                        "img":  "produtos/Refrigerantes/Super%20Bock%20Group/Frisumo%20Laranja%201%2C5.png",
                                        "name":  "Frisumo Laranja 1,5",
                                        "cat":  "refrigerantes",
@@ -2802,7 +2802,7 @@
                                    },
                                    {
                                        "type":  "",
-                                       "desc":  "O sabor clássico e revigorante da laranja, ideal para acompanhar as suas refeições. Refrescância natural e sumarenta em cada gole.",
+                                       "desc":  "Bebida refrescante com todo o sabor da fruta e a garantia de qualidade do Super Bock Group. O sabor da fruta em formato familiar.",
                                        "img":  "produtos/Refrigerantes/Super%20Bock%20Group/Frisumo_Laranja.png",
                                        "name":  "Frisumo Laranja",
                                        "cat":  "refrigerantes",
@@ -2907,7 +2907,7 @@
                             "files":  [
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "O luxo francês destilado a partir de trigo nobre. Uma vodka excecionalmente suave, com notas amanteigadas e um final sedoso.",
                                               "img":  "produtos/Bebidas%20Brancas/Vodkas/1_Grey%20Goose.png",
                                               "name":  "1 Grey Goose",
                                               "cat":  "bebidas-brancas",
@@ -2917,7 +2917,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "A icónica vodka sueca de pureza absoluta. Encorpada e complexa, mas perfeitamente equilibrada para qualquer cocktail.",
                                               "img":  "produtos/Bebidas%20Brancas/Vodkas/2_Absolut.png",
                                               "name":  "2 Absolut",
                                               "cat":  "bebidas-brancas",
@@ -2927,7 +2927,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "Distingue-se pela destilação a partir de uvas francesas. Oferece um perfil fresco, cítrico e uma suavidade sofisticada.",
                                               "img":  "produtos/Bebidas%20Brancas/Vodkas/3_Ciroc.png",
                                               "name":  "3 Ciroc",
                                               "cat":  "bebidas-brancas",
@@ -2937,7 +2937,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "Baseada numa receita georgiana ancestral. Uma vodka de cereais de tripla destilação, limpa, neutra e muito versátil.",
                                               "img":  "produtos/Bebidas%20Brancas/Vodkas/4_Eristoff.png",
                                               "name":  "4 Eristoff",
                                               "cat":  "bebidas-brancas",
@@ -2947,7 +2947,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "A icónica \"vodka preta\" com sabor intenso a frutos silvestres. Perfeita para shots ou misturas irreverentes.",
                                               "img":  "produtos/Bebidas%20Brancas/Vodkas/5_Eristoff%20Black.png",
                                               "name":  "5 Eristoff Black",
                                               "cat":  "bebidas-brancas",
@@ -2967,7 +2967,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "Destilada com tradição, esta bagaceira é límpida e possui o aroma genuíno das massas vínicas. Um digestivo português por excelência.",
                                               "img":  "produtos/Bebidas%20Brancas/Xar%C3%A3o/Aguardente%20Bagaceira%20Xar%C3%A3o.png",
                                               "name":  "Aguardente Bagaceira Xarão",
                                               "cat":  "bebidas-brancas",
@@ -2977,7 +2977,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "Uma aguardente de perfil clássico, com um envelhecimento cuidado que lhe confere notas de madeira e frutos secos.",
                                               "img":  "produtos/Bebidas%20Brancas/Aguardente/Aguardente%20Curvada%20V%C3%ADnica%20Velha.png",
                                               "name":  "Aguardente Curvada Vínica Velha",
                                               "cat":  "bebidas-brancas",
@@ -2987,7 +2987,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Símbolo de tradição e qualidade. Espumante equilibrado com notas de evolução e frescura cítrica, ideal para os grandes clássicos da mesa portuguesa.",
+                                              "desc":  "Um ícone nacional. Estagiada em barricas de carvalho, revela um aroma complexo e um paladar macio e persistente.",
                                               "img":  "produtos/Bebidas%20Brancas/Aguardente/Alian%C3%A7a%20Velha.png",
                                               "name":  "Aliança Velha",
                                               "cat":  "bebidas-brancas",
@@ -2997,7 +2997,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "Uma versão suave e aveludada da tradicional amêndoa amarga. Combina o sabor característico com uma textura cremosa irresistível.",
                                               "img":  "produtos/Bebidas%20Brancas/Licores/Amarguinha%20Creme.png",
                                               "name":  "Amarguinha Creme",
                                               "cat":  "bebidas-brancas",
@@ -3007,7 +3007,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "O clássico licor de amêndoa amarga de Portugal. Doce, com um toque cítrico, é perfeito para servir com gelo e umas gotas de limão.",
                                               "img":  "produtos/Bebidas%20Brancas/Licores/Amarguinha.png",
                                               "name":  "Amarguinha",
                                               "cat":  "bebidas-brancas",
@@ -3047,7 +3047,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "O rum branco líder mundial. Leve e equilibrado, é o parceiro ideal para Mojitos e Cuba Libres.",
                                               "img":  "produtos/Bebidas%20Brancas/Rum/Bacardi.png",
                                               "name":  "Bacardi",
                                               "cat":  "bebidas-brancas",
@@ -3057,7 +3057,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "Destilada a partir das melhores massas vínicas, é uma aguardente pura, cristalina e com o aroma franco do bagaço.",
                                               "img":  "produtos/Bebidas%20Brancas/Aguardente/Bagaceira%20Montanha.png",
                                               "name":  "Bagaceira Montanha",
                                               "cat":  "bebidas-brancas",
@@ -3067,7 +3067,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "O licor de creme original da Irlanda. Uma mistura perfeita de whisky irlandês e natas frescas, com notas de cacau e baunilha.",
                                               "img":  "produtos/Bebidas%20Brancas/Licores/Baileys.png",
                                               "name":  "Baileys",
                                               "cat":  "bebidas-brancas",
@@ -3097,7 +3097,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "Um clássico de Londres. Seco e robusto, com um forte caráter de zimbro e notas cítricas equilibradas.",
                                               "img":  "produtos/Bebidas%20Brancas/Gins/Beefeater%20London%20Dry.png",
                                               "name":  "Beefeater London Dry",
                                               "cat":  "bebidas-brancas",
@@ -3127,7 +3127,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "Baseado numa receita de 1761, oferece um sabor tradicional e equilibrado, com um final seco e herbáceo.",
                                               "img":  "produtos/Bebidas%20Brancas/Gins/Bombay%20London%20Dry.png",
                                               "name":  "Bombay London Dry",
                                               "cat":  "bebidas-brancas",
@@ -3147,7 +3147,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "Famoso pela sua suavidade e aroma ligeiramente adocicado, é um dos brandies mais apreciados e consumidos em Portugal.",
                                               "img":  "produtos/Bebidas%20Brancas/Brandy/Brandy%20-%201920.png",
                                               "name":  "Brandy   1920",
                                               "cat":  "bebidas-brancas",
@@ -3157,7 +3157,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "Com uma história que remonta a 1877, destaca-se pela sua cor escura e sabor intenso a madeira e frutos nobres.",
                                               "img":  "produtos/Bebidas%20Brancas/Brandy/Brandy%20-%20Constantino.png",
                                               "name":  "Brandy   Constantino",
                                               "cat":  "bebidas-brancas",
@@ -3167,7 +3167,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "Produzido na icónica casa do Douro, é um brandy equilibrado, com notas de caramelo e um final muito suave.",
                                               "img":  "produtos/Bebidas%20Brancas/Brandy/Brandy%20-%20Croft.png",
                                               "name":  "Brandy   Croft",
                                               "cat":  "bebidas-brancas",
@@ -3177,7 +3177,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "O espírito de Portugal desde 1885. Uma receita única que mantém a sua essência frutada e caráter intemporal.",
                                               "img":  "produtos/Bebidas%20Brancas/Brandy/Brandy%20-%20Macieira.png",
                                               "name":  "Brandy   Macieira",
                                               "cat":  "bebidas-brancas",
@@ -3197,7 +3197,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "Um London Dry moderno e audaz. Destaca-se pela inclusão de botânicos exóticos como o olho de dragão e folha de lótus.",
                                               "img":  "produtos/Bebidas%20Brancas/Gins/Bulldog%20London%20Dry.png",
                                               "name":  "Bulldog London Dry",
                                               "cat":  "bebidas-brancas",
@@ -3207,7 +3207,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "Whisky irlandês de entrada, triplamente destilado. Leve, frutado e com uma suavidade característica da destilaria mais antiga do mundo.",
                                               "img":  "produtos/Bebidas%20Brancas/Whiskys/Bushmills%2010years.png",
                                               "name":  "Bushmills 10Years",
                                               "cat":  "bebidas-brancas",
@@ -3217,7 +3217,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "A cachaça mais famosa do mundo. Cristalina e aromática, é a base indispensável para a Caipirinha perfeita.",
                                               "img":  "produtos/Bebidas%20Brancas/Cacha%C3%A7a/Cacha%C3%A7a%2051%20Balck.png",
                                               "name":  "Cachaça 51 Balck",
                                               "cat":  "bebidas-brancas",
@@ -3227,7 +3227,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "A cachaça mais famosa do mundo. Cristalina e aromática, é a base indispensável para a Caipirinha perfeita.",
                                               "img":  "produtos/Bebidas%20Brancas/Cacha%C3%A7a/cacha%C3%A7a%2051.png",
                                               "name":  "Cachaça 51",
                                               "cat":  "bebidas-brancas",
@@ -3237,7 +3237,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "Um Single Malt de Speyside elegante e generoso. Destaca-se pelo sabor a mel e fruta madura, com um final limpo e doce.",
                                               "img":  "produtos/Bebidas%20Brancas/Whiskys/Cardhu.png",
                                               "name":  "Cardhu",
                                               "cat":  "bebidas-brancas",
@@ -3247,7 +3247,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "O licor de laranja francês por excelência. Cristalino e equilibrado entre o doce e o amargo, é essencial para uma Margarita perfeita.",
                                               "img":  "produtos/Bebidas%20Brancas/Licores/Cointreau.png",
                                               "name":  "Cointreau",
                                               "cat":  "bebidas-brancas",
@@ -3257,7 +3257,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "Reconhecida pela sua cor âmbar e equilíbrio perfeito. Uma aguardente complexa, fruto de um loteamento de reservas selecionadas.",
                                               "img":  "produtos/Bebidas%20Brancas/Aguardente/CR%26F%20Reserva.png",
                                               "name":  "Cr\u0026F Reserva",
                                               "cat":  "bebidas-brancas",
@@ -3267,7 +3267,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "A expressão clássica de uma das casas mais prestigiadas. Aroma intenso e paladar aveludado, ideal para o final de uma refeição.",
                                               "img":  "produtos/Bebidas%20Brancas/Aguardente/CR%26F.png",
                                               "name":  "Cr\u0026F",
                                               "cat":  "bebidas-brancas",
@@ -3277,7 +3277,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "Uma edição de alta graduação (50%) que homenageia a era da lei seca. Intenso, complexo e com notas de pimenta e citrinos.",
                                               "img":  "produtos/Bebidas%20Brancas/Whiskys/Cutty%20Sark%20Prohibition.png",
                                               "name":  "Cutty Sark Prohibition",
                                               "cat":  "bebidas-brancas",
@@ -3287,7 +3287,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "Um \"blend\" leve e refrescante. Conhecido pela sua cor clara e perfil acessível, ideal para misturar em cocktails longos.",
                                               "img":  "produtos/Bebidas%20Brancas/Whiskys/Cutty%20Sark.png",
                                               "name":  "Cutty Sark",
                                               "cat":  "bebidas-brancas",
@@ -3297,7 +3297,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "O moscatel de Favaios na dose certa. O aperitivo mais famoso de Portugal, com as suas inconfundíveis notas de uva e mel.",
                                               "img":  "produtos/Bebidas%20Brancas/Favaios/Favaito.png",
                                               "name":  "Favaito",
                                               "cat":  "bebidas-brancas",
@@ -3307,7 +3307,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "Uma aguardente de exceção. O longo estágio em madeira confere-lhe uma riqueza e suavidade reservada às grandes reservas.",
                                               "img":  "produtos/Bebidas%20Brancas/Aguardente/Fim%20de%20S%C3%A9culo%2025%20Anos.png",
                                               "name":  "Fim De Século 25 Anos",
                                               "cat":  "bebidas-brancas",
@@ -3317,7 +3317,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "Uma explosão de frescura cítrica. Combina a base clássica do gin com notas intensas de laranja e limão.",
                                               "img":  "produtos/Bebidas%20Brancas/Gins/Foxtale%20Citrus.png",
                                               "name":  "Foxtale Citrus",
                                               "cat":  "bebidas-brancas",
@@ -3327,7 +3327,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "Doce e irreverente. Perfeito para quem gosta de cocktails frutados onde o aroma a melão é o protagonista.",
                                               "img":  "produtos/Bebidas%20Brancas/Gins/Foxtale%20Melon.png",
                                               "name":  "Foxtale Melon",
                                               "cat":  "bebidas-brancas",
@@ -3337,7 +3337,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "Um gin nacional equilibrado e versátil, ideal para quem procura a qualidade de um London Dry com alma portuguesa.",
                                               "img":  "produtos/Bebidas%20Brancas/Gins/Foxtale.png",
                                               "name":  "Foxtale",
                                               "cat":  "bebidas-brancas",
@@ -3357,7 +3357,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "Um gin equilibrado com notas de zimbro bem presentes. Uma excelente opção para um Gin Tónico fiável, fresco e acessível.",
                                               "img":  "produtos/Bebidas%20Brancas/Xar%C3%A3o/Gin%20Fidelity.png",
                                               "name":  "Gin Fidelity",
                                               "cat":  "bebidas-brancas",
@@ -3367,7 +3367,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "Um licor tradicional de ginja, com sabor intenso ao fruto e um equilíbrio perfeito entre a doçura e a acidez.",
                                               "img":  "produtos/Bebidas%20Brancas/Outras%20Bebidas/Ginja%20Victor.png",
                                               "name":  "Ginja Victor",
                                               "cat":  "bebidas-brancas",
@@ -3387,7 +3387,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "Um licor de canela forte e picante que contém verdadeiras lâminas de ouro de 24 quilates. Intenso e visualmente deslumbrante.",
                                               "img":  "produtos/Bebidas%20Brancas/Licores/Gold%20Strike.png",
                                               "name":  "Gold Strike",
                                               "cat":  "bebidas-brancas",
@@ -3397,7 +3397,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "Whisky económico e equilibrado, com um perfil suave de cereais. Uma escolha prática para consumo diário ou misturas simples.",
                                               "img":  "produtos/Bebidas%20Brancas/Whiskys/Golden%20Loch.png",
                                               "name":  "Golden Loch",
                                               "cat":  "bebidas-brancas",
@@ -3427,7 +3427,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "Um xarope clássico, ideal para refrescos tradicionais ou para dar um toque doce a cocktails e sobremesas.",
                                               "img":  "produtos/Bebidas%20Brancas/Xar%C3%A3o/Groselha.png",
                                               "name":  "Groselha",
                                               "cat":  "bebidas-brancas",
@@ -3437,7 +3437,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "Um xarope clássico, ideal para refrescos tradicionais ou para dar um toque doce a cocktails e sobremesas.",
                                               "img":  "produtos/Bebidas%20Brancas/Outras%20Bebidas/Groselha.png",
                                               "name":  "Groselha",
                                               "cat":  "bebidas-brancas",
@@ -3457,7 +3457,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "A autêntica essência do rum cubano. Rico em nuances de cana-de-açúcar, perfeito para cocktails clássicos.",
                                               "img":  "produtos/Bebidas%20Brancas/Rum/Havana%20Club.png",
                                               "name":  "Havana Club",
                                               "cat":  "bebidas-brancas",
@@ -3497,7 +3497,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "O whisky irlandês mais vendido do mundo. Triplamente destilado para garantir uma suavidade excecional e notas florais.",
                                               "img":  "produtos/Bebidas%20Brancas/Whiskys/Jameson.png",
                                               "name":  "Jameson",
                                               "cat":  "bebidas-brancas",
@@ -3537,7 +3537,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "O \"Licor de Portugal\". Produzido a partir de uma receita secreta de plantas e sementes aromáticas, é doce e inconfundível.",
                                               "img":  "produtos/Bebidas%20Brancas/Licores/Licor%20Beir%C3%A3o.png",
                                               "name":  "Licor Beirão",
                                               "cat":  "bebidas-brancas",
@@ -3577,7 +3577,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "Uma fusão moderna que une o espírito da emblemática aguardente Macieira com a suavidade do creme. Doce e reconfortante.",
                                               "img":  "produtos/Bebidas%20Brancas/Licores/Macieira%20Cream.png",
                                               "name":  "Macieira Cream",
                                               "cat":  "bebidas-brancas",
@@ -3587,7 +3587,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "Um aperitivo sofisticado com notas de baunilha e ervas aromáticas. Doce e floral, deve ser servido bem gelado.",
                                               "img":  "produtos/Bebidas%20Brancas/Martini/Martini%20Bianco.png",
                                               "name":  "Martini Bianco",
                                               "cat":  "bebidas-brancas",
@@ -3597,7 +3597,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "O original Martini. De cor avermelhada e sabor herbáceo amargo, é o coração de cocktails como o Negroni.",
                                               "img":  "produtos/Bebidas%20Brancas/Martini/Martini%20Rosso%206cl.png",
                                               "name":  "Martini Rosso 6Cl",
                                               "cat":  "bebidas-brancas",
@@ -3607,7 +3607,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "O original Martini. De cor avermelhada e sabor herbáceo amargo, é o coração de cocktails como o Negroni.",
                                               "img":  "produtos/Bebidas%20Brancas/Martini/Martini%20Rosso.png",
                                               "name":  "Martini Rosso",
                                               "cat":  "bebidas-brancas",
@@ -3617,7 +3617,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "Licor de vodka de frutos negros, conhecido pelo seu perfil doce e sedutor. Essencial para a vida noturna.",
                                               "img":  "produtos/Bebidas%20Brancas/Vodkas/Misss%20Black.png",
                                               "name":  "Misss Black",
                                               "cat":  "bebidas-brancas",
@@ -3627,7 +3627,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "Uma experiência aveludada com toques de caramelo e baunilha. Elegante, festiva e ideal para servir bem gelada.",
                                               "img":  "produtos/Bebidas%20Brancas/Vodkas/Misss%20Gold.png",
                                               "name":  "Misss Gold",
                                               "cat":  "bebidas-brancas",
@@ -3637,7 +3637,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "A base clássica da gama. Uma vodka equilibrada e acessível, desenhada para máxima versatilidade em qualquer mistura.",
                                               "img":  "produtos/Bebidas%20Brancas/Vodkas/Misss.png",
                                               "name":  "Misss",
                                               "cat":  "bebidas-brancas",
@@ -3647,7 +3647,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "Um Moscatel do Douro elegante e aromático, que equilibra na perfeição a doçura com a acidez natural.",
                                               "img":  "produtos/Bebidas%20Brancas/Favaios/Mural%20de%20Favaios.png",
                                               "name":  "Mural De Favaios",
                                               "cat":  "bebidas-brancas",
@@ -3657,7 +3657,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "O espírito de Lisboa num copo. Um aperitivo leve, com a cor do pôr-do-sol e notas de casca de laranja e botânicos.",
                                               "img":  "produtos/Bebidas%20Brancas/Outras%20Bebidas/PER-SE-Aperitivo.png",
                                               "name":  "Per Se Aperitivo",
                                               "cat":  "bebidas-brancas",
@@ -3668,8 +3668,8 @@
                                           {
                                               "type":  "",
                                               "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
-                                              "img":  "produtos/Bebidas%20Brancas/Licores%20Xar%C3%A3o/pinsang.png",
-                                              "name":  "Pinsang",
+                                              "img":  "produtos/Bebidas%20Brancas/Licores%20Xar%C3%A3o/pisang.png",
+                                              "name":  "Pisang",
                                               "cat":  "bebidas-brancas",
                                               "hierarchy":  "Licores Xarão",
                                               "brand":  "Licores Xarão",
@@ -3697,7 +3697,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "O emblemático pastis francês. Com forte aroma a anis e alcaçuz, é o aperitivo refrescante por excelência.",
                                               "img":  "produtos/Bebidas%20Brancas/Licores/Ricard.png",
                                               "name":  "Ricard",
                                               "cat":  "bebidas-brancas",
@@ -3707,7 +3707,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "Um rum panamiano de alta qualidade, apreciado pela sua suavidade e notas de baunilha provenientes do envelhecimento.",
                                               "img":  "produtos/Bebidas%20Brancas/Rum/Rum%20abuelo.png",
                                               "name":  "Rum Abuelo",
                                               "cat":  "bebidas-brancas",
@@ -3717,7 +3717,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "Um rum versátil com carácter caribenho, muito utilizado tanto em coquetelaria como na pastelaria fina.",
                                               "img":  "produtos/Bebidas%20Brancas/Rum/Rum%20Negrita.png",
                                               "name":  "Rum Negrita",
                                               "cat":  "bebidas-brancas",
@@ -3727,7 +3727,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "Um licor exótico com sabores de frutas tropicais como manga, papaia e maracujá. Perfeito para misturar com sumos ou refrigerantes.",
                                               "img":  "produtos/Bebidas%20Brancas/Licores/Safari.png",
                                               "name":  "Safari",
                                               "cat":  "bebidas-brancas",
@@ -3737,7 +3737,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "Produzido no Alentejo, este gin azul muda de cor para rosa ao misturar-se com tónica. Sabor frutado e mágico.",
                                               "img":  "produtos/Bebidas%20Brancas/Gins/Sharish_Blue_Alentejano.png",
                                               "name":  "Sharish Blue Alentejano",
                                               "cat":  "bebidas-brancas",
@@ -3777,7 +3777,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "Descansada em pipas de carvalho, apresenta um tom dourado e um sabor suave com notas de caramelo e especiarias.",
                                               "img":  "produtos/Bebidas%20Brancas/Outras%20Bebidas/Tequila-Sierra-reposado.webp",
                                               "name":  "Tequila Sierra Reposado",
                                               "cat":  "bebidas-brancas",
@@ -3797,7 +3797,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "Um dos favoritos na Escócia. Rico, suave e bem equilibrado, com notas de frutos secos e especiarias.",
                                               "img":  "produtos/Bebidas%20Brancas/Whiskys/The%20Famous%20Grouse.png",
                                               "name":  "The Famous Grouse",
                                               "cat":  "bebidas-brancas",
@@ -3807,7 +3807,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "Conhecida pelo seu aroma marcante, é uma das cachaças mais tradicionais do Brasil, ideal tanto para misturas como pura.",
                                               "img":  "produtos/Bebidas%20Brancas/Cacha%C3%A7a/Velho%20Barreiro.png",
                                               "name":  "Velho Barreiro",
                                               "cat":  "bebidas-brancas",
@@ -3817,7 +3817,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "Caracteriza-se pela harmonia entre a força do destilado e a elegância das notas de envelhecimento em carvalho.",
                                               "img":  "produtos/Bebidas%20Brancas/Aguardente/V%C3%ADnica%20Velha%20Montanha.png",
                                               "name":  "Vínica Velha Montanha",
                                               "cat":  "bebidas-brancas",
@@ -3827,7 +3827,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "Uma referência histórica. Apresenta notas de baunilha e especiarias, com um final de boca longo e gratificante.",
                                               "img":  "produtos/Bebidas%20Brancas/Aguardente/V%C3%ADnica%20Velha%20S%C3%A3o%20Domingos.png",
                                               "name":  "Vínica Velha São Domingos",
                                               "cat":  "bebidas-brancas",
@@ -3837,7 +3837,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "O topo da gama. Uma aguardente rara, com décadas de história, oferecendo uma densidade e complexidade únicas.",
                                               "img":  "produtos/Bebidas%20Brancas/Aguardente/V%C3%8Dnica%20Velh%C3%ADssima%20Montanha.png",
                                               "name":  "Vínica Velhíssima Montanha",
                                               "cat":  "bebidas-brancas",
@@ -3867,7 +3867,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "A vodka clássica da gama. Passa por um processo de filtragem que garante a neutralidade e pureza necessárias para qualquer mistura.",
                                               "img":  "produtos/Bebidas%20Brancas/Xar%C3%A3o/Vodka%20Xarinoff.png",
                                               "name":  "Vodka Xarinoff",
                                               "cat":  "bebidas-brancas",
@@ -3897,7 +3897,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "Uma edição especial de reserva, celebrando a mestria da marca. Perfil complexo e maduro, ideal para momentos de degustação lenta.",
                                               "img":  "produtos/Bebidas%20Brancas/Licores%20Xar%C3%A3o/xAR%C3%83O%2025%20ANOS.png",
                                               "name":  "Xarão 25 Anos",
                                               "cat":  "bebidas-brancas",
@@ -3907,7 +3907,17 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "Variante fresca e herbácea, com um perfil de ervas selecionadas que garantem um paladar equilibrado e revigorante.",
+                                              "img":  "produtos/Bebidas%20Brancas/Licores%20Xar%C3%A3o/Zagalote%20girafa.png",
+                                              "name":  "Zagalote Girafa",
+                                              "cat":  "bebidas-brancas",
+                                              "hierarchy":  "Licores Xarão",
+                                              "brand":  "Licores Xarão",
+                                              "subCategory":  ""
+                                          },
+                                          {
+                                              "type":  "",
+                                              "desc":  "O tradicional licor de ervas, robusto e aromático. Uma escolha clássica para servir como digestivo após as refeições.",
                                               "img":  "produtos/Bebidas%20Brancas/Licores%20Xar%C3%A3o/Zagalote%20veado.png",
                                               "name":  "Zagalote Veado",
                                               "cat":  "bebidas-brancas",
@@ -3917,17 +3927,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
-                                              "img":  "produtos/Bebidas%20Brancas/Licores%20Xar%C3%A3o/Zagalote%20Verde.png",
-                                              "name":  "Zagalote Verde",
-                                              "cat":  "bebidas-brancas",
-                                              "hierarchy":  "Licores Xarão",
-                                              "brand":  "Licores Xarão",
-                                              "subCategory":  ""
-                                          },
-                                          {
-                                              "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "Destaca-se pelo seu tom vibrante e notas aromáticas ligeiramente mais doces, mantendo a base de ervas característica da linha.",
                                               "img":  "produtos/Bebidas%20Brancas/Licores%20Xar%C3%A3o/Zagalote%20Vermelho.png",
                                               "name":  "Zagalote Vermelho",
                                               "cat":  "bebidas-brancas",
