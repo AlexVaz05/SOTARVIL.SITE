@@ -203,7 +203,7 @@
                                 },
                                 {
                                     "type":  "",
-                                    "desc":  "Um blend harmonioso de morangos, framboesas e amoras. Este néctar é uma explosão de frescura silvestre e doçura natural, perfeito para qualquer momento do dia.",
+                                    "desc":  "Uma infusão suave que combina as propriedades relaxantes da cidreira com a doçura do mel e o toque vibrante dos frutos vermelhos.",
                                     "img":  "produtos/Bebidas%20Quentes%20e%20Caf%C3%A9s/Tetley/Ch%C3%A1s%20Tetley_Cidreira%20com%20Mel_Frutos%20Vermelhos.png",
                                     "name":  "Chás Tetley Cidreira Com Mel Frutos Vermelhos",
                                     "cat":  "cafes",
@@ -213,7 +213,7 @@
                                 },
                                 {
                                     "type":  "",
-                                    "desc":  "Um blend harmonioso de morangos, framboesas e amoras. Este néctar é uma explosão de frescura silvestre e doçura natural, perfeito para qualquer momento do dia.",
+                                    "desc":  "O blend perfeito para um momento de calma. Une a tranquilidade da tília e da cidreira ao aroma silvestre e frutado das bagas vermelhas.",
                                     "img":  "produtos/Bebidas%20Quentes%20e%20Caf%C3%A9s/Tetley/Ch%C3%A1s%20Tetley_Cidreira_T%C3%ADlia_Frutos%20Vermelhos.png",
                                     "name":  "Chás Tetley Cidreira Tília Frutos Vermelhos",
                                     "cat":  "cafes",
