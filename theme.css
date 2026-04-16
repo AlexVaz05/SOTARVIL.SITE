@@ -1539,7 +1539,7 @@ textarea.form-control {
     color: #fff;
   }
 
-  .logo-img {
+  .floating-nav .logo-img {
     height: 42px !important;
   }
 
@@ -1570,7 +1570,7 @@ textarea.form-control {
   }
 
   /* Only logo centered on phones */
-  .logo-img {
+  .floating-nav .logo-img {
     height: 36px !important;
   }
 
