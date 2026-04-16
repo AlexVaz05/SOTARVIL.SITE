@@ -474,7 +474,7 @@
                           "files":  [
                                         {
                                             "type":  "",
-                                            "desc":  "A água tónica de referência mundial, com o equilíbrio perfeito entre o amargo do quinino e notas cítricas. O segredo para um Gin Tónico impecável.",
+                                            "desc":  "A tónica de referência desde 1783. Equilíbrio perfeito entre o amargor do quinino e a efervescência das suas bolhas duradouras.",
                                             "img":  "produtos/Refrigerantes/Schweppes/1_Schweppes%20-%20T%C3%B3nica.png",
                                             "name":  "1 Schweppes   Tónica",
                                             "cat":  "refrigerantes",
@@ -484,7 +484,7 @@
                                         },
                                         {
                                             "type":  "",
-                                            "desc":  "O toque sofisticado e refrescante do limão numa bebida equilibrada. Perfeita para apreciar simples com gelo ou como misturadora premium.",
+                                            "desc":  "Um refrigerante de limão intensamente refrescante, com todo o sabor cítrico e zero açúcares.",
                                             "img":  "produtos/Refrigerantes/Schweppes/10_schweppes-lemon-zero_.png",
                                             "name":  "10 Schweppes Lemon Zero ",
                                             "cat":  "refrigerantes",
@@ -494,7 +494,7 @@
                                         },
                                         {
                                             "type":  "",
-                                            "desc":  "Uma mistura cítrica e sofisticada de várias frutas. Uma explosão de frescura com um toque aromático único e diferenciado.",
+                                            "desc":  "Uma mistura única de sabores de citrinos, equilibrada e vibrante, sem qualquer adição de açúcar.",
                                             "img":  "produtos/Refrigerantes/Schweppes/11_schweppes-agrumes-zero_.png",
                                             "name":  "11 Schweppes Agrumes Zero ",
                                             "cat":  "refrigerantes",
@@ -504,7 +504,7 @@
                                         },
                                         {
                                             "type":  "",
-                                            "desc":  "Refrescância delicada com notas suaves de frutos vermelhos. Uma escolha elegante, aromática e visualmente vibrante.",
+                                            "desc":  "Com um toque de groselha e cor rosada, oferece um perfil frutado e sofisticado numa fórmula zero açúcar.",
                                             "img":  "produtos/Refrigerantes/Schweppes/12_schweppes-pink-zero_.png",
                                             "name":  "12 Schweppes Pink Zero ",
                                             "cat":  "refrigerantes",
@@ -514,7 +514,7 @@
                                         },
                                         {
                                             "type":  "",
-                                            "desc":  "O sabor clássico e revigorante da laranja, ideal para acompanhar as suas refeições. Refrescância natural e sumarenta em cada gole.",
+                                            "desc":  "O sabor natural e sumarento da laranja com o toque borbulhante da Schweppes, sem calorias.",
                                             "img":  "produtos/Refrigerantes/Schweppes/13_schweppes%20Laranja_zero.png",
                                             "name":  "13 Schweppes Laranja Zero",
                                             "cat":  "refrigerantes",
@@ -524,7 +524,7 @@
                                         },
                                         {
                                             "type":  "",
-                                            "desc":  "Especialista em misturas premium. O toque de sofisticação essencial para o seu bar.",
+                                            "desc":  "Água gaseificada pura e refrescante, com o nível de carbonatação ideal para beber simples ou misturar.",
                                             "img":  "produtos/Refrigerantes/Schweppes/2_Schweppes%20Soda.png",
                                             "name":  "2 Schweppes Soda",
                                             "cat":  "refrigerantes",
@@ -534,7 +534,7 @@
                                         },
                                         {
                                             "type":  "",
-                                            "desc":  "Especialista em misturas premium. O toque de sofisticação essencial para o seu bar.",
+                                            "desc":  "Água de soda premium com uma bolha fina e persistente, desenhada para elevar os melhores destilados.",
                                             "img":  "produtos/Refrigerantes/Schweppes/3_Schweppes%20Selection_Soda-Water_.png",
                                             "name":  "3 Schweppes Selection Soda Water ",
                                             "cat":  "refrigerantes",
@@ -544,7 +544,7 @@
                                         },
                                         {
                                             "type":  "",
-                                            "desc":  "Especialista em misturas premium. O toque de sofisticação essencial para o seu bar.",
+                                            "desc":  "Uma água tónica sofisticada com um toque subtil de lima, ideal para realçar as notas cítricas do teu gin.",
                                             "img":  "produtos/Refrigerantes/Schweppes/4_Schweppes%20selection%20touch%20of%20lime.png",
                                             "name":  "4 Schweppes Selection Touch Of Lime",
                                             "cat":  "refrigerantes",
@@ -554,7 +554,7 @@
                                         },
                                         {
                                             "type":  "",
-                                            "desc":  "Especialista em misturas premium. O toque de sofisticação essencial para o seu bar.",
+                                            "desc":  "Versão premium do clássico Ginger Ale, com maior complexidade aromática e perfeita para cocktails de autor.",
                                             "img":  "produtos/Refrigerantes/Schweppes/5_Schweppes%20selection%20ginger%20ale.png",
                                             "name":  "5 Schweppes Selection Ginger Ale",
                                             "cat":  "refrigerantes",
@@ -564,7 +564,7 @@
                                         },
                                         {
                                             "type":  "",
-                                            "desc":  "O sabor agridoce e refrescante da toranja de seleção. Intensidade cítrica perfeita para refrescar os paladares mais exigentes.",
+                                            "desc":  "Um mixer exótico e aromático que combina o amargor da toranja com a doçura do pomelo.",
                                             "img":  "produtos/Refrigerantes/Schweppes/6_schweppes%20selection%20toranja%20pomelo.png",
                                             "name":  "6 Schweppes Selection Toranja Pomelo",
                                             "cat":  "refrigerantes",
@@ -574,7 +574,7 @@
                                         },
                                         {
                                             "type":  "",
-                                            "desc":  "Especialista em misturas premium. O toque de sofisticação essencial para o seu bar.",
+                                            "desc":  "A tónica de referência desde 1783. Equilíbrio perfeito entre o amargor do quinino e a efervescência das suas bolhas duradouras.",
                                             "img":  "produtos/Refrigerantes/Schweppes/7_Schweppes%20tonic.png",
                                             "name":  "7 Schweppes Tonic",
                                             "cat":  "refrigerantes",
@@ -584,7 +584,7 @@
                                         },
                                         {
                                             "type":  "",
-                                            "desc":  "O caráter picante e aromático do gengibre numa bebida borbulhante e clássica. Uma escolha elegante para refrescar o seu bar ou mesa.",
+                                            "desc":  "Um clássico refrescante com extratos de gengibre, oferecendo um sabor equilibrado, leve e picante.",
                                             "img":  "produtos/Refrigerantes/Schweppes/8_Schweppes%20ginger%20ale.png",
                                             "name":  "8 Schweppes Ginger Ale",
                                             "cat":  "refrigerantes",
@@ -594,7 +594,7 @@
                                         },
                                         {
                                             "type":  "",
-                                            "desc":  "Especialista em misturas premium. O toque de sofisticação essencial para o seu bar.",
+                                            "desc":  "O sabor clássico e seco da água tónica Schweppes, agora numa versão sem açúcar e sem calorias.",
                                             "img":  "produtos/Refrigerantes/Schweppes/9_schweppes-tonic-zero.png",
                                             "name":  "9 Schweppes Tonic Zero",
                                             "cat":  "refrigerantes",
@@ -604,7 +604,7 @@
                                         },
                                         {
                                             "type":  "",
-                                            "desc":  "O sabor clássico e refrescante que une o mundo. Perfeita em qualquer momento.",
+                                            "desc":  "O refrigerante mais famoso do mundo. O sabor autêntico e refrescante que acompanha qualquer momento, disponível em vários formatos.",
                                             "img":  "produtos/Refrigerantes/Coca%20Cola/Coca%20Cola%201L.png",
                                             "name":  "Coca Cola 1L",
                                             "cat":  "refrigerantes",
@@ -614,7 +614,7 @@
                                         },
                                         {
                                             "type":  "",
-                                            "desc":  "O sabor clássico e refrescante que une o mundo. Perfeita em qualquer momento.",
+                                            "desc":  "O refrigerante mais famoso do mundo. O sabor autêntico e refrescante que acompanha qualquer momento, disponível em vários formatos.",
                                             "img":  "produtos/Refrigerantes/Coca%20Cola/Coca%20Cola%20Lata.png",
                                             "name":  "Coca Cola Lata",
                                             "cat":  "refrigerantes",
@@ -624,7 +624,7 @@
                                         },
                                         {
                                             "type":  "",
-                                            "desc":  "O sabor lendário da Coca-Cola com zero açúcar e zero calorias. A refrescância máxima para quem não abdica do prazer Original em qualquer ocasião.",
+                                            "desc":  "Todo o sabor icónico de Coca-Cola, mas sem açúcar e sem calorias. A escolha perfeita para quem não abdica do prazer original.",
                                             "img":  "produtos/Refrigerantes/Coca%20Cola/Coca%20Cola%20Zero%20Lata.png",
                                             "name":  "Coca Cola Zero Lata",
                                             "cat":  "refrigerantes",
@@ -634,7 +634,7 @@
                                         },
                                         {
                                             "type":  "",
-                                            "desc":  "O sabor clássico e revigorante da laranja, ideal para acompanhar as suas refeições. Refrescância natural e sumarenta em cada gole.",
+                                            "desc":  "Um sumo de laranja prático e familiar, com um sabor frutado e equilibrado. Disponível em formato familiar de 1.5L.",
                                             "img":  "produtos/Refrigerantes/J%C3%B3i/J%C3%B3i%20Laranja%201.5L.png",
                                             "name":  "Jói Laranja 1.5L",
                                             "cat":  "refrigerantes",
@@ -656,7 +656,7 @@
                                             "subCategory":  "",
                                             "hierarchy":  "Seven-Up",
                                             "type":  "",
-                                            "desc":  "A refrescância perfeita com o sabor que todos adoram. Ideal para acompanhar os seus momentos de lazer.",
+                                            "desc":  "O refrigerante de lima-limão mais refrescante. Sabor limpo, fresco e borbulhante, ideal para matar a sede.",
                                             "name":  "Seven-Up",
                                             "img":  "produtos/Refrigerantes/Seven-Up/Seven-Up/Seven-Up%2033cl.png",
                                             "isGroup":  true,
@@ -774,7 +774,7 @@
                       "files":  [
                                     {
                                         "type":  "",
-                                        "desc":  "Leve e versátil, perfeita para misturas ou para beber bem fresca. A tradição das gaseificadas.",
+                                        "desc":  "Uma opção versátil para quem aprecia a leveza desta bebida icónica. Quer seja na versão tinta tradicional ou na variante branca, oferece um perfil cítrico, fresco e muito fácil de beber, perfeito para acompanhar momentos de convívio ao sol.",
                                         "img":  "produtos/La%20Casera/La%20Casera%20Blanco%20e%20Tinto%20de%20Verano.webp",
                                         "name":  "La Casera Blanco E Tinto De Verano",
                                         "cat":  "la-casera",
@@ -784,7 +784,7 @@
                                     },
                                     {
                                         "type":  "",
-                                        "desc":  "Leve e versátil, perfeita para misturas ou para beber bem fresca. A tradição das gaseificadas.",
+                                        "desc":  "O clássico e refrescante \"Tinto de Verano\" espanhol. Uma combinação equilibrada de vinho tinto selecionado e o toque borbulhante da gasosa La Casera. Ideal para servir bem gelado, com uma rodela de limão.",
                                         "img":  "produtos/La%20Casera/La%20Casera%20Tinto%20de%20Verano.png",
                                         "name":  "La Casera Tinto De Verano",
                                         "cat":  "la-casera",
@@ -1064,7 +1064,7 @@
                                  },
                                  {
                                      "type":  "",
-                                     "desc":  "Um vinho do Douro vibrante e autêntico. Frescura serrana e aromas frutados intensos que celebram a altitude da região.",
+                                     "desc":  "O expoente máximo da vinha. Um vinho estruturado, com estágio em madeira que lhe confere complexidade e um final longo e memorável.",
                                      "img":  "produtos/Vinhos/Vinhos%20do%20Douro/cabe%C3%A7a%20de%20gaio/Cabe%C3%A7a%20de%20Gaio%20-%20Grande%20Reserva.png",
                                      "name":  "Cabeça De Gaio   Grande Reserva",
                                      "cat":  "vinhos",
@@ -2217,7 +2217,7 @@
                                     "subCategory":  "Aguas Lisas",
                                     "hierarchy":  "Lisas \u003e VITALIS \u003e Água Vitalis Premium",
                                     "type":  "lisa",
-                                    "desc":  "Água de pureza excecional, ideal para acompanhar as suas refeições ou para uma hidratação revigorante.",
+                                    "desc":  "A elegância da água Vitalis apresentada numa garrafa sofisticada. Ideal para mesas requintadas, mantendo a pureza e o sabor suave que a caracterizam.",
                                     "name":  "Água Vitalis Premium",
                                     "img":  "produtos/%C3%81guas/Lisas/VITALIS/%C3%81gua%20Vitalis%20Premium/37%2C5cl.png",
                                     "isGroup":  true,
@@ -2331,7 +2331,7 @@
                                 },
                                 {
                                     "type":  "gas-sem-sabor",
-                                    "desc":  "Água de pureza excecional, ideal para acompanhar as suas refeições ou para uma hidratação revigorante.",
+                                    "desc":  "Uma água histórica e prestigiada, conhecida pelas suas qualidades termais. Destaca-se pela sua efervescência natural e paladar sofisticado.",
                                     "img":  "produtos/%C3%81guas/Gaseificadas/Sem%20Sabor/Vidago.png",
                                     "name":  "Vidago",
                                     "cat":  "aguas",
@@ -2702,7 +2702,7 @@
                      "files":  [
                                    {
                                        "type":  "",
-                                       "desc":  "Um blend harmonioso de morangos, framboesas e amoras. Este néctar é uma explosão de frescura silvestre e doçura natural, perfeito para qualquer momento do dia.",
+                                       "desc":  "Uma explosão de antioxidantes e sabor, combinando o melhor das bagas silvestres.",
                                        "img":  "produtos/Refrigerantes/Compal/Compal%20-%20Frutos%20Vermelhos.png",
                                        "name":  "Compal   Frutos Vermelhos",
                                        "cat":  "refrigerantes",
@@ -2712,7 +2712,7 @@
                                    },
                                    {
                                        "type":  "",
-                                       "desc":  "Feito com as laranjas mais doces e sumarentas do Algarve. Um sabor cítrico autêntico e equilibrado que traz o sol de Portugal diretamente para o seu copo.",
+                                       "desc":  "Elaborado com as famosas laranjas algarvias, oferece um sabor cítrico equilibrado, doce e cheio de sol.",
                                        "img":  "produtos/Refrigerantes/Compal/Compal%20-%20Laranja%20do%20Algarve.png",
                                        "name":  "Compal   Laranja Do Algarve",
                                        "cat":  "refrigerantes",
@@ -2722,7 +2722,7 @@
                                    },
                                    {
                                        "type":  "",
-                                       "desc":  "O sabor puro e refrescante da maçã selecionada. Um néctar leve, naturalmente equilibrado e ideal para acompanhar uma refeição saudável ou um snack.",
+                                       "desc":  "Refrescante e leve, com o sabor puro da maçã colhida no ponto ideal de maturação.",
                                        "img":  "produtos/Refrigerantes/Compal/Compal%20-%20Ma%C3%A7a.png",
                                        "name":  "Compal   Maça",
                                        "cat":  "refrigerantes",
@@ -2732,7 +2732,7 @@
                                    },
                                    {
                                        "type":  "",
-                                       "desc":  "A doçura exótica da manga encontra a vivacidade da laranja. Uma combinação cremosa, nutritiva e perfeitamente equilibrada para um prazer tropical.",
+                                       "desc":  "Uma combinação exótica e vibrante que une a doçura da manga à frescura da laranja.",
                                        "img":  "produtos/Refrigerantes/Compal/Compal%20-%20Manga%20Laranja.png",
                                        "name":  "Compal   Manga Laranja",
                                        "cat":  "refrigerantes",
@@ -2742,7 +2742,7 @@
                                    },
                                    {
                                        "type":  "",
-                                       "desc":  "Textura rica e aveludada com o sabor autêntico da pêra Rocha. Um clássico da frutologia que prima pela suavidade, qualidade e doçura natural.",
+                                       "desc":  "O clássico dos clássicos. Um néctar cremoso, com a textura e o sabor autêntico da melhor pêra rocha.",
                                        "img":  "produtos/Refrigerantes/Compal/Compal%20-%20Pera.png",
                                        "name":  "Compal   Pera",
                                        "cat":  "refrigerantes",
@@ -2752,7 +2752,7 @@
                                    },
                                    {
                                        "type":  "",
-                                       "desc":  "O sabor doce e o aroma inconfundível do pêssego maduro. Um néctar aveludado e reconfortante que desperta as melhores sensações de frescura.",
+                                       "desc":  "Doce, aveludado e rico em polpa. A escolha ideal para quem procura o sabor tradicional do pêssego maduro.",
                                        "img":  "produtos/Refrigerantes/Compal/Compal%20-%20Pessego.png",
                                        "name":  "Compal   Pessego",
                                        "cat":  "refrigerantes",
@@ -2762,7 +2762,7 @@
                                    },
                                    {
                                        "type":  "",
-                                       "desc":  "Feito com as laranjas mais doces e sumarentas do Algarve. Um sabor cítrico autêntico e equilibrado que traz o sol de Portugal diretamente para o seu copo.",
+                                       "desc":  "Elaborado com as famosas laranjas algarvias, oferece um sabor cítrico equilibrado, doce e cheio de sol.",
                                        "img":  "produtos/Refrigerantes/Compal/compal%20laranja%20do%20algarve.png",
                                        "name":  "Compal Laranja Do Algarve",
                                        "cat":  "refrigerantes",
@@ -2772,7 +2772,7 @@
                                    },
                                    {
                                        "type":  "",
-                                       "desc":  "Bebida refrescante com todo o sabor da fruta e a garantia de qualidade do Super Bock Group. O sabor da fruta em formato familiar.",
+                                       "desc":  "Tropical e borbulhante, oferece o sabor doce e refrescante do ananás.",
                                        "img":  "produtos/Refrigerantes/Super%20Bock%20Group/Frisumo%20Ananas%201%2C5.png",
                                        "name":  "Frisumo Ananas 1,5",
                                        "cat":  "refrigerantes",
@@ -2782,7 +2782,7 @@
                                    },
                                    {
                                        "type":  "",
-                                       "desc":  "O sabor clássico e revigorante da laranja, ideal para acompanhar as suas refeições. Refrescância natural e sumarenta em cada gole.",
+                                       "desc":  "O refrigerante de laranja português por excelência. Com sumo de fruta real, é refrescante e perfeito para toda a família.",
                                        "img":  "produtos/Refrigerantes/Super%20Bock%20Group/Frisumo%20Laranja%201%2C5.png",
                                        "name":  "Frisumo Laranja 1,5",
                                        "cat":  "refrigerantes",
@@ -2792,7 +2792,7 @@
                                    },
                                    {
                                        "type":  "",
-                                       "desc":  "Bebida refrescante com todo o sabor da fruta e a garantia de qualidade do Super Bock Group. O sabor da fruta em formato familiar.",
+                                       "desc":  "Tropical e borbulhante, oferece o sabor doce e refrescante do ananás.",
                                        "img":  "produtos/Refrigerantes/Super%20Bock%20Group/Frisumo_Ananas.png",
                                        "name":  "Frisumo Ananas",
                                        "cat":  "refrigerantes",
@@ -2802,7 +2802,7 @@
                                    },
                                    {
                                        "type":  "",
-                                       "desc":  "O sabor clássico e revigorante da laranja, ideal para acompanhar as suas refeições. Refrescância natural e sumarenta em cada gole.",
+                                       "desc":  "O refrigerante de laranja português por excelência. Com sumo de fruta real, é refrescante e perfeito para toda a família.",
                                        "img":  "produtos/Refrigerantes/Super%20Bock%20Group/Frisumo_Laranja.png",
                                        "name":  "Frisumo Laranja",
                                        "cat":  "refrigerantes",
@@ -2812,7 +2812,7 @@
                                    },
                                    {
                                        "type":  "",
-                                       "desc":  "O chá gelado refrescante e equilibrado, perfeito para acompanhar as suas refeições ou para uma pausa ligeira e saborosa.",
+                                       "desc":  "A frescura clássica do chá com limão. Ideal para hidratar e refrescar nos dias mais quentes.",
                                        "img":  "produtos/Refrigerantes/Super%20Bock%20Group/Frutea_Limao.png",
                                        "name":  "Frutea Limao",
                                        "cat":  "refrigerantes",
@@ -2822,7 +2822,7 @@
                                    },
                                    {
                                        "type":  "",
-                                       "desc":  "A intensidade exótica do maracujá num néctar aromático e revigorante. Uma experiência sensorial única para quem procura um sabor marcante.",
+                                       "desc":  "Uma versão tropical e aromática de iced tea, perfeita para quem procura sabores diferenciados.",
                                        "img":  "produtos/Refrigerantes/Super%20Bock%20Group/Frutea_Manga_Maracuj%C3%A1.png",
                                        "name":  "Frutea Manga Maracujá",
                                        "cat":  "refrigerantes",
@@ -2832,7 +2832,7 @@
                                    },
                                    {
                                        "type":  "",
-                                       "desc":  "O sabor doce e o aroma inconfundível do pêssego maduro. Um néctar aveludado e reconfortante que desperta as melhores sensações de frescura.",
+                                       "desc":  "O equilíbrio perfeito entre o extrato de chá e a doçura do pêssego. Um refresco leve e intemporal.",
                                        "img":  "produtos/Refrigerantes/Super%20Bock%20Group/Frutea_Pessego.png",
                                        "name":  "Frutea Pessego",
                                        "cat":  "refrigerantes",
@@ -2842,7 +2842,7 @@
                                    },
                                    {
                                        "type":  "",
-                                       "desc":  "A frescura intensa e o toque tropical do ananás de alta qualidade. Uma bebida vibrante e refrescante com o balanço ideal entre acidez e doçura.",
+                                       "desc":  "Uma gama de refrescos leves e frutados, com o selo de qualidade do Super Bock Group, ideal para qualquer momento do dia.",
                                        "img":  "produtos/Refrigerantes/Super%20Bock%20Group/Frutis_Ananas.png",
                                        "name":  "Frutis Ananas",
                                        "cat":  "refrigerantes",
@@ -2872,7 +2872,7 @@
                                    },
                                    {
                                        "type":  "",
-                                       "desc":  "A frescura cítrica e vibrante do limão. Uma escolha leve e revigorante que limpa o paladar e mata a sede de forma natural.",
+                                       "desc":  "Uma gama de refrescos leves e frutados, com o selo de qualidade do Super Bock Group, ideal para qualquer momento do dia.",
                                        "img":  "produtos/Refrigerantes/Super%20Bock%20Group/Frutis_Limao.png",
                                        "name":  "Frutis Limao",
                                        "cat":  "refrigerantes",
@@ -2882,7 +2882,7 @@
                                    },
                                    {
                                        "type":  "",
-                                       "desc":  "O sabor exótico e estimulante da Amazónia. Um refrigerante vibrante com o toque autêntico do guaraná brasileiro.",
+                                       "desc":  "Inspirado na energia da Amazónia, um refrigerante refrescante com o extrato natural de guaraná e um toque exótico.",
                                        "img":  "produtos/Refrigerantes/Super%20Bock%20Group/Guaran%C3%A1.png",
                                        "name":  "Guaraná",
                                        "cat":  "refrigerantes",
@@ -2892,7 +2892,7 @@
                                    },
                                    {
                                        "type":  "",
-                                       "desc":  "O sabor tradicional do laranjal português. Uma bebida cítrica clássica que oferece a refrescância simples e natural da fruta.",
+                                       "desc":  "O histórico refrigerante de laranja, conhecido pelo seu sabor autêntico e tradição, mantendo a frescura de sempre.",
                                        "img":  "produtos/Refrigerantes/Super%20Bock%20Group/Rical.png",
                                        "name":  "Rical",
                                        "cat":  "refrigerantes",
