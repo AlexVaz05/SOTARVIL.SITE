@@ -13,7 +13,7 @@
                                   },
                                   {
                                       "type":  "pressao",
-                                      "desc":  "A frescura da cerveja de pressão, servida no ponto ideal. O sabor autêntico do barril diretamente para o seu copo.",
+                                      "desc":  "A cerveja preta de eleição. Surpreende pelo equilíbrio entre a doçura e o amargor, com um aroma rico a malte torrado que remete ao café e chocolate.",
                                       "img":  "produtos/Press%C3%A3o/2_Super%20bock%20Stout.png",
                                       "name":  "2 Super Bock Stout",
                                       "cat":  "pressao",
@@ -23,7 +23,7 @@
                                   },
                                   {
                                       "type":  "pressao",
-                                      "desc":  "Cerveja artesanal de prestígio, produzida em pequenos lotes com ingredientes nobres. Uma viagem de sabores complexos para os verdadeiros apreciadores.",
+                                      "desc":  "Uma experiência artesanal premium. Servida à pressão para destacar a complexidade dos maltes e aromas desta gama exclusiva.",
                                       "img":  "produtos/Press%C3%A3o/3_Selec%C3%A7%C3%A3o%201927.png",
                                       "name":  "3 Selecção 1927",
                                       "cat":  "pressao",
@@ -33,7 +33,7 @@
                                   },
                                   {
                                       "type":  "pressao",
-                                      "desc":  "A cerveja que rompe com o tradicional. Com dry-hopping de lúpulos selecionados, oferece um aroma intenso e um caráter vibrante e autêntico.",
+                                      "desc":  "A alma das cervejas lupuladas diretamente da torneira. Mantém toda a vivacidade dos aromas cítricos e o amargor característico.",
                                       "img":  "produtos/Press%C3%A3o/4_Coruja.gif",
                                       "name":  "4 Coruja",
                                       "cat":  "pressao",
@@ -43,7 +43,7 @@
                                   },
                                   {
                                       "type":  "pressao",
-                                      "desc":  "A frescura da cerveja de pressão, servida no ponto ideal. O sabor autêntico do barril diretamente para o seu copo.",
+                                      "desc":  "A famosa Lager dinamarquesa. Uma cerveja premium, equilibrada e cristalina, conhecida pelo seu amargor suave e final refrescante.",
                                       "img":  "produtos/Press%C3%A3o/5_Carlsberg.png",
                                       "name":  "5 Carlsberg",
                                       "cat":  "pressao",
@@ -53,7 +53,7 @@
                                   },
                                   {
                                       "type":  "pressao",
-                                      "desc":  "Cerveja de abadia com séculos de história. O equilíbrio perfeito entre o doce e o amargo, proporcionando uma degustação rica e memorável.",
+                                      "desc":  "Uma cerveja de abadia belga de alta qualidade. À pressão, revela todo o seu corpo rico, notas frutadas e especiarias tradicionais.",
                                       "img":  "produtos/Press%C3%A3o/6_Grimbergen.png",
                                       "name":  "6 Grimbergen",
                                       "cat":  "pressao",
@@ -73,7 +73,7 @@
                                   },
                                   {
                                       "type":  "pressao",
-                                      "desc":  "Toda a frescura das frutas brancas numa sangria leve e aromática. A escolha perfeita para refrescar os dias de sol no seu estabelecimento.",
+                                      "desc":  "Uma mistura leve e frutada, pronta a servir. Com notas cítricas e tropicais, é a escolha ideal para momentos de partilha.",
                                       "img":  "produtos/Press%C3%A3o/Vini%20Sangria%20Branca.png",
                                       "name":  "Vini Sangria Branca",
                                       "cat":  "pressao",
@@ -83,7 +83,7 @@
                                   },
                                   {
                                       "type":  "pressao",
-                                      "desc":  "A receita tradicional de sangria tinta, equilibrada e frutada. Sabor caseiro com a conveniência e frescura do sistema de pressão.",
+                                      "desc":  "A clássica sangria de vinho tinto, aromática e refrescante. Servida à pressão para garantir a consistência e o sabor frutado em cada copo.",
                                       "img":  "produtos/Press%C3%A3o/Vini%20Sangria%20Tinta.png",
                                       "name":  "Vini Sangria Tinta",
                                       "cat":  "pressao",
@@ -93,7 +93,7 @@
                                   },
                                   {
                                       "type":  "pressao",
-                                      "desc":  "Vinho branco selecionado servido sob pressão para garantir a máxima frescura em cada copo. Qualidade constante do primeiro ao último serviço.",
+                                      "desc":  "Vinho branco selecionado, servido à pressão para assegurar frescura constante e leveza desde o primeiro até ao último copo.",
                                       "img":  "produtos/Press%C3%A3o/Vini%20Vinho%20Branco.png",
                                       "name":  "Vini Vinho Branco",
                                       "cat":  "pressao",
@@ -108,7 +108,7 @@
                    "files":  [
                                  {
                                      "type":  "",
-                                     "desc":  "A sidra de maçã original, refrescante e equilibrada. Uma explosão de sabor frutado com o balanço perfeito entre a doçura e a acidez.",
+                                     "desc":  "A sidra original e favorita. Elaborada com sumo de maçã real, oferece um equilíbrio perfeito entre a doçura e uma acidez refrescante.",
                                      "img":  "produtos/Sidras/Somersby%20Apple.png",
                                      "name":  "Somersby Apple",
                                      "cat":  "sidras",
@@ -118,7 +118,7 @@
                                  },
                                  {
                                      "type":  "",
-                                     "desc":  "A doçura intensa das amoras silvestres numa sidra refrescante. Cor vibrante e sabor profundo para momentos de prazer descontraído.",
+                                     "desc":  "Uma combinação vibrante de sidra de maçã com o sabor intenso de amoras. Frutada, doce e com um final levemente refrescante.",
                                      "img":  "produtos/Sidras/Somersby%20Blackberry.png",
                                      "name":  "Somersby Blackberry",
                                      "cat":  "sidras",
@@ -128,7 +128,7 @@
                                  },
                                  {
                                      "type":  "",
-                                     "desc":  "Uma combinação exótica e vibrante de maracujá e laranja. O sabor das férias em cada gole, perfeita para dias quentes de convívio.",
+                                     "desc":  "Uma explosão tropical que junta o sabor exótico do maracujá à frescura cítrica da laranja. Ideal para quem procura algo irreverente.",
                                      "img":  "produtos/Sidras/Somersby%20Passionfruit%20%26%20Orange.png",
                                      "name":  "Somersby Passionfruit \u0026 Orange",
                                      "cat":  "sidras",
@@ -138,7 +138,7 @@
                                  },
                                  {
                                      "type":  "",
-                                     "desc":  "Toda a frescura da sidra de pêra, com 0,0% de teor alcoólico. A escolha ideal para quem procura um sabor leve e doce sem restrições.",
+                                     "desc":  "Todo o sabor doce e delicado da pera numa versão sem álcool. Uma opção leve, frutada e perfeita para qualquer momento do dia.",
                                      "img":  "produtos/Sidras/Somersby%20Pera%200.0.png",
                                      "name":  "Somersby Pera 0.0",
                                      "cat":  "sidras",
@@ -1064,7 +1064,7 @@
                                  },
                                  {
                                      "type":  "",
-                                     "desc":  "O expoente máximo da vinha. Um vinho estruturado, com estágio em madeira que lhe confere complexidade e um final longo e memorável.",
+                                     "desc":  "Um vinho do Douro vibrante e autêntico. Frescura serrana e aromas frutados intensos que celebram a altitude da região.",
                                      "img":  "produtos/Vinhos/Vinhos%20do%20Douro/cabe%C3%A7a%20de%20gaio/Cabe%C3%A7a%20de%20Gaio%20-%20Grande%20Reserva.png",
                                      "name":  "Cabeça De Gaio   Grande Reserva",
                                      "cat":  "vinhos",
@@ -2436,7 +2436,7 @@
                                        "subCategory":  "",
                                        "hierarchy":  "engarrafadas",
                                        "type":  "",
-                                       "desc":  "A marca de cerveja mais icónica de Portugal. Sabor equilibrado e tradição cervejeira de excelência.",
+                                       "desc":  "A cerveja líder em Portugal. Uma Lager autêntica, com corpo, aroma frutado e um equilíbrio perfeito entre o doce do malte e o amargor do lúpulo.",
                                        "name":  "Super Bock Original",
                                        "img":  "produtos/cervejas/engarrafadas/Super%20Bock%20Original/Super_Bock_Original%2033cl.png",
                                        "isGroup":  true,
@@ -2457,7 +2457,7 @@
                                        "subCategory":  "",
                                        "hierarchy":  "engarrafadas",
                                        "type":  "",
-                                       "desc":  "Qualidade reconhecida mundialmente. Uma cerveja com um perfil de sabor límpido e refrescante.",
+                                       "desc":  "A famosa Lager dinamarquesa. Uma cerveja premium, equilibrada e cristalina, conhecida pelo seu amargor suave e final refrescante.",
                                        "name":  "Carlsberg",
                                        "img":  "produtos/cervejas/engarrafadas/Carlsberg/0_Garrafa.png",
                                        "isGroup":  true,
@@ -2466,7 +2466,7 @@
                                    },
                                    {
                                        "type":  "",
-                                       "desc":  "A marca de cerveja mais icónica de Portugal. Sabor equilibrado e tradição cervejeira de excelência.",
+                                       "desc":  "A cerveja preta de eleição. Surpreende pelo equilíbrio entre a doçura e o amargor, com um aroma rico a malte torrado que remete ao café e chocolate.",
                                        "img":  "produtos/cervejas/engarrafadas/2_Super_Bock_Stout.png",
                                        "name":  "2 Super Bock Stout",
                                        "cat":  "cervejas",
@@ -2476,7 +2476,7 @@
                                    },
                                    {
                                        "type":  "",
-                                       "desc":  "A marca de cerveja mais icónica de Portugal. Sabor equilibrado e tradição cervejeira de excelência.",
+                                       "desc":  "Inspirada na tradição artesanal, é uma cerveja de receita clássica, mais encorpada, com uma cor artesanal e um sabor rico a malte.",
                                        "img":  "produtos/cervejas/engarrafadas/3_Super%20Bock%20Abadia.png",
                                        "name":  "3 Super Bock Abadia",
                                        "cat":  "cervejas",
@@ -2486,7 +2486,7 @@
                                    },
                                    {
                                        "type":  "",
-                                       "desc":  "A marca de cerveja mais icónica de Portugal. Sabor equilibrado e tradição cervejeira de excelência.",
+                                       "desc":  "Uma cerveja leve e extremamente refrescante, com um teor alcoólico reduzido e um perfil de sabor suave, ideal para momentos descontraídos.",
                                        "img":  "produtos/cervejas/engarrafadas/4_Super%20Bock%20SKY.png",
                                        "name":  "4 Super Bock Sky",
                                        "cat":  "cervejas",
@@ -2506,7 +2506,7 @@
                                    },
                                    {
                                        "type":  "",
-                                       "desc":  "A marca de cerveja mais icónica de Portugal. Sabor equilibrado e tradição cervejeira de excelência.",
+                                       "desc":  "Uma combinação refrescante de cerveja com sumo de limão. Leve, cítrica e muito fácil de beber, especialmente nos dias de calor.",
                                        "img":  "produtos/cervejas/engarrafadas/5_Super_Bock_%20Green.png",
                                        "name":  "5 Super Bock  Green",
                                        "cat":  "cervejas",
@@ -2516,7 +2516,7 @@
                                    },
                                    {
                                        "type":  "",
-                                       "desc":  "A cerveja que rompe com o tradicional. Com dry-hopping de lúpulos selecionados, oferece um aroma intenso e um caráter vibrante e autêntico.",
+                                       "desc":  "A alma das cervejas lupuladas diretamente da torneira. Mantém toda a vivacidade dos aromas cítricos e o amargor característico.",
                                        "img":  "produtos/cervejas/engarrafadas/6_Super_Bock_Coruja_India_Pale_Ale.png",
                                        "name":  "6 Super Bock Coruja India Pale Ale",
                                        "cat":  "cervejas",
@@ -2526,7 +2526,7 @@
                                    },
                                    {
                                        "type":  "",
-                                       "desc":  "A marca de cerveja mais icónica de Portugal. Sabor equilibrado e tradição cervejeira de excelência.",
+                                       "desc":  "Uma cerveja de trigo de estilo bávaro. Turva e refrescante, apresenta notas aromáticas de cravo e banana, típicas do estilo.",
                                        "img":  "produtos/cervejas/engarrafadas/7_seleccao_1927_Bavaria_Weiss.png",
                                        "name":  "7 Seleccao 1927 Bavaria Weiss",
                                        "cat":  "cervejas",
@@ -2536,7 +2536,7 @@
                                    },
                                    {
                                        "type":  "",
-                                       "desc":  "A marca de cerveja mais icónica de Portugal. Sabor equilibrado e tradição cervejeira de excelência.",
+                                       "desc":  "Uma cerveja de trigo escura e complexa. Combina a frescura do trigo com as notas torradas de cereais, caramelo e frutos secos.",
                                        "img":  "produtos/cervejas/engarrafadas/8_seleccao_1927_Dunkelweizen.png",
                                        "name":  "8 Seleccao 1927 Dunkelweizen",
                                        "cat":  "cervejas",
@@ -2546,7 +2546,7 @@
                                    },
                                    {
                                        "type":  "",
-                                       "desc":  "Cerveja sem álcool com todo o sabor. Refrescante e leve, perfeita para desfrutar sem restrições.",
+                                       "desc":  "Uma opção leve e prática para quem procura o sabor do malte sem o teor alcoólico. Equilibrada e muito refrescante.",
                                        "img":  "produtos/cervejas/engarrafadas/Cheers_Sem_%C3%81lcool.png",
                                        "name":  "Cheers Sem Álcool",
                                        "cat":  "cervejas",
@@ -2568,7 +2568,7 @@
                                        "subCategory":  "",
                                        "hierarchy":  "engarrafadas",
                                        "type":  "",
-                                       "desc":  "Cerveja ligeira e refrescante, com um cariz popular e tradição em Portugal. Ideal para o convívio diário.",
+                                       "desc":  "Uma marca histórica portuguesa. É uma cerveja Lager leve e fácil de beber, reconhecida pela sua frescura e tradição no mercado nacional.",
                                        "name":  "Cristal",
                                        "img":  "produtos/cervejas/engarrafadas/Cristal/0_Cristal%20Branca.png",
                                        "isGroup":  true,
