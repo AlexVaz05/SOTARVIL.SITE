@@ -1443,13 +1443,26 @@ textarea.form-control {
 
   .catalog-layout {
     grid-template-columns: 1fr;
-    gap: 2rem;
+    gap: 1.5rem;
+    padding: 3rem 0 6rem;
   }
 
   .catalog-sidebar {
     position: relative;
     top: 0;
     max-height: none;
+    padding: 1.5rem;
+  }
+
+  .catalog-sidebar .filter-list {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0.2rem 1rem;
+  }
+
+  .catalog-sidebar .filter-item a {
+    padding: 0.4rem 0 !important;
+    font-size: 0.9rem;
   }
 
   .footer-grid {
@@ -1700,19 +1713,82 @@ textarea.form-control {
     transform: translateX(-50%) translateY(-5px);
   }
 
-  /* Catalog grid - single column on phones */
+  /* Catalog grid - two columns on phones */
   .catalog-grid {
     grid-template-columns: 1fr 1fr;
-    gap: 1rem;
+    gap: 0.8rem;
+  }
+
+  .product-card {
+    padding: 0.8rem;
+    overflow: hidden;
+  }
+
+  .product-name {
+    font-size: 0.85rem !important;
+    min-height: 2.4rem !important;
+    word-break: break-word;
+  }
+
+  .product-brand {
+    font-size: 0.65rem !important;
+    letter-spacing: 0.5px;
+  }
+
+  .product-img-container {
+    max-height: 160px;
+  }
+
+  .product-img {
+    max-height: 150px !important;
   }
 
   /* Category page header */
+  .catalog-page-header {
+    padding: 8rem 0 3rem;
+  }
+
   .catalog-page-header h1 {
     font-size: 2rem;
   }
 
+  .catalog-page-header p {
+    font-size: 1rem !important;
+  }
+
+  /* Catalog sidebar compact on phones */
+  .catalog-sidebar .filter-list {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .catalog-sidebar .filter-title {
+    font-size: 1.1rem;
+    margin-bottom: 1rem;
+  }
+
+  /* PDF viewer mobile fix */
+  .catalog-content > div {
+    height: 60vh !important;
+    min-height: 400px !important;
+    padding: 1rem !important;
+  }
+
+  .catalog-content > div h2 {
+    font-size: 1.3rem !important;
+    margin-bottom: 1rem !important;
+  }
+
   .category-title {
-    font-size: 2rem !important;
+    font-size: 1.6rem !important;
+  }
+
+  .category-header {
+    padding: 7rem 0 2rem !important;
+  }
+
+  /* Inline sub-headers in category grid */
+  .catalog-grid > div > h2 {
+    font-size: 1.4rem !important;
   }
 
   /* Form two-column to single column */
