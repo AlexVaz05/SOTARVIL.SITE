@@ -38,8 +38,8 @@
         "somersby": "Sidra refrescante e frutada. A escolha descontraída para momentos de convívio.",
         "monster": "Energia extrema para os seus momentos de performance. Sabor intenso e inconfundível.",
         "red bull": "Dá-te asas. A bebida energética funcional perfeita para quando precisas de um impulso.",
-        "ucal": "O clássico leite com chocolate que gerações de portugueses adoram. Sabor rico e cremoso.",
-        "gresso": "Leite de qualidade garantida, fresco e nutritivo para o seu pequeno-almoço.",
+        "ucal": "O icónico leite achocolatado que atravessa gerações. Reconhecido pela sua textura cremosa e pelo sabor intenso a cacau, é a escolha irresistível para qualquer pausa, seja bebido fresco ou à temperatura ambiente.",
+        "gresso": "Um leite de referência, sinónimo de qualidade e confiança. Proveniente de pastagens selecionadas, oferece o equilíbrio nutricional ideal para o dia a dia da família, com um sabor puro e natural.",
         "la casera": "Leve e versátil, perfeita para misturas ou para beber bem fresca. A tradição das gaseificadas."
     },
     "products": {
@@ -115,11 +115,11 @@
         "Fraga da Pena": "Refrescante e aromático, este espumante destaca-se pela sua leveza e notas de fruta fresca. Uma escolha segura para qualquer brinde.",
         "Murganheira Bruto": "A elite dos espumantes portugueses. Produzido com as melhores castas da Távora-Varosa, prima pela complexidade, bolha finíssima e elegância absoluta.",
         "Terra do Demo - pata de lebre - Bruto": "Um espumante de autor com bolha fina e aroma persistente. Frescura extrema e notas minerais que definem o carácter da região.",
-        "Demoiselle Vranken": "Um champanhe francês de prestígio, conhecido pela sua leveza e feminilidade. Aroma delicado a flores brancas e cítricos, pura sofisticação.",
-        "Pommery Brut": "O equilíbrio perfeito entre vivacidade e elegância. Um champanhe clássico com notas de maçã verde e cítricos, fresco e sedutor.",
-        "Pommery Brut Apanage": "A expressão premium da Maison Pommery. Complexidade superior, notas de frutos secos e brioche com um final longo e mineral.",
-        "Pommery Rose": "Elegância em tons rosados. Aroma intenso a frutos vermelhos com uma frescura cristalina que o torna o acompanhante ideal para momentos românticos.",
-        "VRANKEN_DIAMANT_BLANC_BLANCS": "Uma jóia da Champagne. Produzido exclusivamente com uvas brancas (Chardonnay), destaca-se pela sua frescura, pureza e elegância inigualável.",
+        "Demoiselle Vranken": "Um champanhe que se distingue pela sua elegância e feminilidade. Apresenta notas florais delicadas e uma leveza excecional, sendo a escolha perfeita para momentos de celebração romântica ou aperitivos requintados.",
+        "Pommery Brut": "O coração da casa Pommery. Vibrante e fresco, este Brut destaca-se pelo seu equilíbrio, com notas de frutos brancos e citrinos, mantendo uma vivacidade que perdura no paladar.",
+        "Pommery Brut Apanage": "Uma cuvée superior, com um estágio mais prolongado nas caves. Mais complexo e estruturado do que o Brut clássico, oferece uma cremosidade única e notas subtis de pastelaria e frutos secos.",
+        "Pommery Rose": "Um champanhe rosado delicado, que encanta pela sua cor pálida e aromas de pequenos frutos vermelhos. É fresco, redondo e muito harmonioso, ideal para acompanhar sobremesas de fruta ou pratos leves.",
+        "VRANKEN_DIAMANT_BLANC_BLANCS": "A joia da coroa. Elaborado exclusivamente com uvas Chardonnay de parcelas selecionadas, é um champanhe de extrema pureza, com uma bolha finíssima e notas minerais e cítricas de grande distinção.",
         "Alvarinho": "A nobreza da casta Alvarinho num vinho vibrante, com aromas cítricos e tropicais intensos e uma frescura persistente.",
         "Colheita Rose": "Um rosé de eleição, fresco e frutado, com notas de frutos vermelhos silvestres e um equilíbrio refrescante.",
         "Colheita-tardia": "Pura sedução num vinho doce e complexo, com notas de mel e frutos secos. Perfeito para sobremesas sofisticadas.",
@@ -318,6 +318,19 @@
         "Frutis": "Uma gama de refrescos leves e frutados, com o selo de qualidade do Super Bock Group, ideal para qualquer momento do dia.",
         "Rical": "O histórico refrigerante de laranja, conhecido pelo seu sabor autêntico e tradição, mantendo a frescura de sempre.",
         "La Casera Tinto de Verano": "O clássico e refrescante \"Tinto de Verano\" espanhol. Uma combinação equilibrada de vinho tinto selecionado e o toque borbulhante da gasosa La Casera. Ideal para servir bem gelado, com uma rodela de limão.",
-        "La Casera Blanco e Tinto de Verano": "Uma opção versátil para quem aprecia a leveza desta bebida icónica. Quer seja na versão tinta tradicional ou na variante branca, oferece um perfil cítrico, fresco e muito fácil de beber, perfeito para acompanhar momentos de convívio ao sol."
+        "La Casera Blanco e Tinto de Verano": "Uma opção versátil para quem aprecia a leveza desta bebida icónica. Quer seja na versão tinta tradicional ou na variante branca, oferece um perfil cítrico, fresco e muito fácil de beber, perfeito para acompanhar momentos de convívio ao sol.",
+        "Delta Platinum": "O topo da gama Delta. Um lote de cafés de origens nobres, com corpo intenso, acidez equilibrada e notas de chocolate e especiarias. Para quem procura um café de autor.",
+        "Delta Gold": "Um lote precioso e equilibrado. Oferece um sabor aveludado e um aroma intenso a frutos secos, sendo a escolha ideal para um café cremoso e marcante.",
+        "Delta Gran Espresso": "Especialmente desenhado para quem aprecia o vigor do espresso italiano. É um café encorpado, com uma textura densa e um sabor persistente.",
+        "Delta Chávena Grão": "O equilíbrio clássico para o consumo diário. Um café aromático e suave, com o sabor tradicional que define o hábito dos portugueses.",
+        "Delta Decaf": "Todo o sabor e aroma de um excelente café, mas sem a cafeína. Uma opção equilibrada, com corpo e suavidade, perfeita para qualquer hora do dia.",
+        "Choco Cream": "Um chocolate quente denso, cremoso e reconfortante. Com um sabor intenso a cacau, é a bebida perfeita para os dias mais frios.",
+        "Mokate Classic": "O autêntico cappuccino de estilo italiano, com uma espuma aveludada e o equilíbrio ideal entre o café e o leite.",
+        "Mokate Double": "Uma dose extra de intensidade. Para quem prefere um sabor a café mais pronunciado sem abdicar da textura cremosa do cappuccino.",
+        "Mokate Avelâ": "Uma combinação deliciosa e perfumada, onde as notas torradas da avelã elevam a experiência do cappuccino tradicional.",
+        "Mokate Baunilha": "Suave e reconfortante, este cappuccino destaca-se pelo aroma doce e delicado da baunilha.",
+        "Mokate Latte Caramel": "Uma bebida sedutora com o toque doce e levemente salgado do caramelo, finalizada com uma espuma rica.",
+        "Tetley_Cidreira com Mel_Frutos Vermelhos": "Uma infusão suave que combina as propriedades relaxantes da cidreira com a doçura do mel e o toque vibrante dos frutos vermelhos.",
+        "Tetley_Cidreira_Tília_Frutos Vermelhos": "O blend perfeito para um momento de calma. Une a tranquilidade da tília e da cidreira ao aroma silvestre e frutado das bagas vermelhas."
     }
 }

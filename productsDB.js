@@ -153,7 +153,7 @@
                   "files":  [
                                 {
                                     "type":  "",
-                                    "desc":  "O aroma e a intensidade de um café selecionado. A energia e o sabor que tornam cada pausa especial.",
+                                    "desc":  "O topo da gama Delta. Um lote de cafés de origens nobres, com corpo intenso, acidez equilibrada e notas de chocolate e especiarias. Para quem procura um café de autor.",
                                     "img":  "produtos/Bebidas%20Quentes%20e%20Caf%C3%A9s/Caf%C3%A9s/1_DELTA%20PLATINUM.png",
                                     "name":  "1 Delta Platinum",
                                     "cat":  "cafes",
@@ -163,7 +163,7 @@
                                 },
                                 {
                                     "type":  "",
-                                    "desc":  "O aroma e a intensidade de um café selecionado. A energia e o sabor que tornam cada pausa especial.",
+                                    "desc":  "Um lote precioso e equilibrado. Oferece um sabor aveludado e um aroma intenso a frutos secos, sendo a escolha ideal para um café cremoso e marcante.",
                                     "img":  "produtos/Bebidas%20Quentes%20e%20Caf%C3%A9s/Caf%C3%A9s/2_DELTA%20GOLD.png",
                                     "name":  "2 Delta Gold",
                                     "cat":  "cafes",
@@ -173,7 +173,7 @@
                                 },
                                 {
                                     "type":  "",
-                                    "desc":  "O aroma e a intensidade de um café selecionado. A energia e o sabor que tornam cada pausa especial.",
+                                    "desc":  "Especialmente desenhado para quem aprecia o vigor do espresso italiano. É um café encorpado, com uma textura densa e um sabor persistente.",
                                     "img":  "produtos/Bebidas%20Quentes%20e%20Caf%C3%A9s/Caf%C3%A9s/3_DELTA%20GRAN%20ESPRESSO.png",
                                     "name":  "3 Delta Gran Espresso",
                                     "cat":  "cafes",
@@ -183,7 +183,7 @@
                                 },
                                 {
                                     "type":  "",
-                                    "desc":  "O aroma e a intensidade de um café selecionado. A energia e o sabor que tornam cada pausa especial.",
+                                    "desc":  "O equilíbrio clássico para o consumo diário. Um café aromático e suave, com o sabor tradicional que define o hábito dos portugueses.",
                                     "img":  "produtos/Bebidas%20Quentes%20e%20Caf%C3%A9s/Caf%C3%A9s/4_DELTA%20CH%C3%81VENA%20GR%C3%83O.png",
                                     "name":  "4 Delta Chávena Grão",
                                     "cat":  "cafes",
@@ -193,7 +193,7 @@
                                 },
                                 {
                                     "type":  "",
-                                    "desc":  "O aroma e a intensidade de um café selecionado. A energia e o sabor que tornam cada pausa especial.",
+                                    "desc":  "Todo o sabor e aroma de um excelente café, mas sem a cafeína. Uma opção equilibrada, com corpo e suavidade, perfeita para qualquer hora do dia.",
                                     "img":  "produtos/Bebidas%20Quentes%20e%20Caf%C3%A9s/Caf%C3%A9s/5_DELTA%20DECAF.png",
                                     "name":  "5 Delta Decaf",
                                     "cat":  "cafes",
@@ -223,7 +223,7 @@
                                 },
                                 {
                                     "type":  "",
-                                    "desc":  "O aroma e a intensidade de um café selecionado. A energia e o sabor que tornam cada pausa especial.",
+                                    "desc":  "Um chocolate quente denso, cremoso e reconfortante. Com um sabor intenso a cacau, é a bebida perfeita para os dias mais frios.",
                                     "img":  "produtos/Bebidas%20Quentes%20e%20Caf%C3%A9s/Chocolate%20Quente%20e%20Cappuccino/choco%20cream.png",
                                     "name":  "Choco Cream",
                                     "cat":  "cafes",
@@ -233,7 +233,7 @@
                                 },
                                 {
                                     "type":  "",
-                                    "desc":  "O aroma e a intensidade de um café selecionado. A energia e o sabor que tornam cada pausa especial.",
+                                    "desc":  "Uma combinação deliciosa e perfumada, onde as notas torradas da avelã elevam a experiência do cappuccino tradicional.",
                                     "img":  "produtos/Bebidas%20Quentes%20e%20Caf%C3%A9s/Chocolate%20Quente%20e%20Cappuccino/mokate%20avel%C3%A2.png",
                                     "name":  "Mokate Avelâ",
                                     "cat":  "cafes",
@@ -243,7 +243,7 @@
                                 },
                                 {
                                     "type":  "",
-                                    "desc":  "O aroma e a intensidade de um café selecionado. A energia e o sabor que tornam cada pausa especial.",
+                                    "desc":  "Suave e reconfortante, este cappuccino destaca-se pelo aroma doce e delicado da baunilha.",
                                     "img":  "produtos/Bebidas%20Quentes%20e%20Caf%C3%A9s/Chocolate%20Quente%20e%20Cappuccino/mokate%20baunilha.png",
                                     "name":  "Mokate Baunilha",
                                     "cat":  "cafes",
@@ -253,7 +253,7 @@
                                 },
                                 {
                                     "type":  "",
-                                    "desc":  "O aroma e a intensidade de um café selecionado. A energia e o sabor que tornam cada pausa especial.",
+                                    "desc":  "O autêntico cappuccino de estilo italiano, com uma espuma aveludada e o equilíbrio ideal entre o café e o leite.",
                                     "img":  "produtos/Bebidas%20Quentes%20e%20Caf%C3%A9s/Chocolate%20Quente%20e%20Cappuccino/mokate%20classic.png",
                                     "name":  "Mokate Classic",
                                     "cat":  "cafes",
@@ -263,7 +263,7 @@
                                 },
                                 {
                                     "type":  "",
-                                    "desc":  "O aroma e a intensidade de um café selecionado. A energia e o sabor que tornam cada pausa especial.",
+                                    "desc":  "Uma dose extra de intensidade. Para quem prefere um sabor a café mais pronunciado sem abdicar da textura cremosa do cappuccino.",
                                     "img":  "produtos/Bebidas%20Quentes%20e%20Caf%C3%A9s/Chocolate%20Quente%20e%20Cappuccino/mokate%20double.png",
                                     "name":  "Mokate Double",
                                     "cat":  "cafes",
@@ -273,7 +273,7 @@
                                 },
                                 {
                                     "type":  "",
-                                    "desc":  "O aroma e a intensidade de um café selecionado. A energia e o sabor que tornam cada pausa especial.",
+                                    "desc":  "Uma bebida sedutora com o toque doce e levemente salgado do caramelo, finalizada com uma espuma rica.",
                                     "img":  "produtos/Bebidas%20Quentes%20e%20Caf%C3%A9s/Chocolate%20Quente%20e%20Cappuccino/mokate%20latte%20caramel.png",
                                     "name":  "Mokate Latte Caramel",
                                     "cat":  "cafes",
@@ -1064,7 +1064,7 @@
                                  },
                                  {
                                      "type":  "",
-                                     "desc":  "O expoente máximo da vinha. Um vinho estruturado, com estágio em madeira que lhe confere complexidade e um final longo e memorável.",
+                                     "desc":  "Um vinho do Douro vibrante e autêntico. Frescura serrana e aromas frutados intensos que celebram a altitude da região.",
                                      "img":  "produtos/Vinhos/Vinhos%20do%20Douro/cabe%C3%A7a%20de%20gaio/Cabe%C3%A7a%20de%20Gaio%20-%20Grande%20Reserva.png",
                                      "name":  "Cabeça De Gaio   Grande Reserva",
                                      "cat":  "vinhos",
@@ -2647,7 +2647,7 @@
                        "files":  [
                                      {
                                          "type":  "",
-                                         "desc":  "Um champanhe francês de prestígio, conhecido pela sua leveza e feminilidade. Aroma delicado a flores brancas e cítricos, pura sofisticação.",
+                                         "desc":  "Um champanhe que se distingue pela sua elegância e feminilidade. Apresenta notas florais delicadas e uma leveza excecional, sendo a escolha perfeita para momentos de celebração romântica ou aperitivos requintados.",
                                          "img":  "produtos/Champanhes/Demoiselle%20Vranken.png",
                                          "name":  "Demoiselle Vranken",
                                          "cat":  "champanhes",
@@ -2657,7 +2657,7 @@
                                      },
                                      {
                                          "type":  "",
-                                         "desc":  "A expressão premium da Maison Pommery. Complexidade superior, notas de frutos secos e brioche com um final longo e mineral.",
+                                         "desc":  "Uma cuvée superior, com um estágio mais prolongado nas caves. Mais complexo e estruturado do que o Brut clássico, oferece uma cremosidade única e notas subtis de pastelaria e frutos secos.",
                                          "img":  "produtos/Champanhes/Pommery%20Brut%20Apanage.png",
                                          "name":  "Pommery Brut Apanage",
                                          "cat":  "champanhes",
@@ -2667,7 +2667,7 @@
                                      },
                                      {
                                          "type":  "",
-                                         "desc":  "O equilíbrio perfeito entre vivacidade e elegância. Um champanhe clássico com notas de maçã verde e cítricos, fresco e sedutor.",
+                                         "desc":  "O coração da casa Pommery. Vibrante e fresco, este Brut destaca-se pelo seu equilíbrio, com notas de frutos brancos e citrinos, mantendo uma vivacidade que perdura no paladar.",
                                          "img":  "produtos/Champanhes/Pommery%20Brut.png",
                                          "name":  "Pommery Brut",
                                          "cat":  "champanhes",
@@ -2677,7 +2677,7 @@
                                      },
                                      {
                                          "type":  "",
-                                         "desc":  "Elegância em tons rosados. Aroma intenso a frutos vermelhos com uma frescura cristalina que o torna o acompanhante ideal para momentos românticos.",
+                                         "desc":  "Um champanhe rosado delicado, que encanta pela sua cor pálida e aromas de pequenos frutos vermelhos. É fresco, redondo e muito harmonioso, ideal para acompanhar sobremesas de fruta ou pratos leves.",
                                          "img":  "produtos/Champanhes/Pommery%20Rose.png",
                                          "name":  "Pommery Rose",
                                          "cat":  "champanhes",
