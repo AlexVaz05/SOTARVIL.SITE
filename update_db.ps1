@@ -35,7 +35,8 @@ function Get-ProductBrand {
     if ($parts.Count -ge 4 -and $brand -eq "engarrafadas") { $brand = $parts[$parts.Count-3] }
 
     if ($brand -eq "engarrafadas" -or $brand -eq "Geral" -or $brand -eq "Alimentares") {
-        if ($prodName -match "Super Bock") { return "Super Bock" }
+        if ($prodName -match "Super Bock" -or $prodName -match "1927" -or $prodName -match "Selec") { return "Super Bock" }
+        if ($prodName -match "Cheers") { return "Cheers" }
         if ($prodName -match "Sagres") { return "Sagres" }
         if ($prodName -match "Somersby") { return "Somersby" }
         if ($prodName -match "Carlsberg") { return "Carlsberg" }

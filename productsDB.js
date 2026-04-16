@@ -2526,32 +2526,32 @@
                                    },
                                    {
                                        "type":  "",
-                                       "desc":  "Uma escolha de excelência para os paladares que apreciam uma cerveja fresca e de sabor autêntico.",
+                                       "desc":  "A marca de cerveja mais icónica de Portugal. Sabor equilibrado e tradição cervejeira de excelência.",
                                        "img":  "produtos/cervejas/engarrafadas/7_seleccao_1927_Bavaria_Weiss.png",
                                        "name":  "7 Seleccao 1927 Bavaria Weiss",
                                        "cat":  "cervejas",
                                        "hierarchy":  "engarrafadas",
-                                       "brand":  "engarrafadas",
+                                       "brand":  "Super Bock",
                                        "subCategory":  ""
                                    },
                                    {
                                        "type":  "",
-                                       "desc":  "Uma escolha de excelência para os paladares que apreciam uma cerveja fresca e de sabor autêntico.",
+                                       "desc":  "A marca de cerveja mais icónica de Portugal. Sabor equilibrado e tradição cervejeira de excelência.",
                                        "img":  "produtos/cervejas/engarrafadas/8_seleccao_1927_Dunkelweizen.png",
                                        "name":  "8 Seleccao 1927 Dunkelweizen",
                                        "cat":  "cervejas",
                                        "hierarchy":  "engarrafadas",
-                                       "brand":  "engarrafadas",
+                                       "brand":  "Super Bock",
                                        "subCategory":  ""
                                    },
                                    {
                                        "type":  "",
-                                       "desc":  "Uma escolha de excelência para os paladares que apreciam uma cerveja fresca e de sabor autêntico.",
+                                       "desc":  "Cerveja sem álcool com todo o sabor. Refrescante e leve, perfeita para desfrutar sem restrições.",
                                        "img":  "produtos/cervejas/engarrafadas/Cheers_Sem_%C3%81lcool.png",
                                        "name":  "Cheers Sem Álcool",
                                        "cat":  "cervejas",
                                        "hierarchy":  "engarrafadas",
-                                       "brand":  "engarrafadas",
+                                       "brand":  "Cheers",
                                        "subCategory":  ""
                                    },
                                    {
