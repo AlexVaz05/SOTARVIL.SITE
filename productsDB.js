@@ -2782,7 +2782,7 @@
                                    },
                                    {
                                        "type":  "",
-                                       "desc":  "Bebida refrescante com todo o sabor da fruta e a garantia de qualidade do Super Bock Group. O sabor da fruta em formato familiar.",
+                                       "desc":  "O sabor clássico e revigorante da laranja, ideal para acompanhar as suas refeições. Refrescância natural e sumarenta em cada gole.",
                                        "img":  "produtos/Refrigerantes/Super%20Bock%20Group/Frisumo%20Laranja%201%2C5.png",
                                        "name":  "Frisumo Laranja 1,5",
                                        "cat":  "refrigerantes",
@@ -2802,7 +2802,7 @@
                                    },
                                    {
                                        "type":  "",
-                                       "desc":  "Bebida refrescante com todo o sabor da fruta e a garantia de qualidade do Super Bock Group. O sabor da fruta em formato familiar.",
+                                       "desc":  "O sabor clássico e revigorante da laranja, ideal para acompanhar as suas refeições. Refrescância natural e sumarenta em cada gole.",
                                        "img":  "produtos/Refrigerantes/Super%20Bock%20Group/Frisumo_Laranja.png",
                                        "name":  "Frisumo Laranja",
                                        "cat":  "refrigerantes",
@@ -2957,7 +2957,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "Uma bebida de elevada graduação, mística e intensamente aromática. Dominada pelo anis e pelo losna, é ideal para rituais de cocktails clássicos.",
                                               "img":  "produtos/Bebidas%20Brancas/Xar%C3%A3o/ABSINTO.png",
                                               "name":  "Absinto",
                                               "cat":  "bebidas-brancas",
@@ -3017,7 +3017,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "A interpretação da Xarão para este clássico algarvio. Doce e aromática, perfeita para servir com gelo e uma rodela de limão.",
                                               "img":  "produtos/Bebidas%20Brancas/Licores/Amendoa%20Amarga%20Caves.png",
                                               "name":  "Amendoa Amarga Caves",
                                               "cat":  "bebidas-brancas",
@@ -3027,7 +3027,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "A interpretação da Xarão para este clássico algarvio. Doce e aromática, perfeita para servir com gelo e uma rodela de limão.",
                                               "img":  "produtos/Bebidas%20Brancas/Xar%C3%A3o/Amendoa%20Amarga.png",
                                               "name":  "Amendoa Amarga",
                                               "cat":  "bebidas-brancas",
@@ -3037,7 +3037,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "Um licor clássico de aroma intenso e persistente. Perfeito como digestivo ou para adoçar o café com o toque tradicional do anis.",
                                               "img":  "produtos/Bebidas%20Brancas/Licores%20Xar%C3%A3o/Aniz.png",
                                               "name":  "Aniz",
                                               "cat":  "bebidas-brancas",
@@ -3087,7 +3087,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "Cremosa e tropical, é a base ideal para cocktails exóticos. Oferece todo o sabor suave e doce do coco fresco.",
                                               "img":  "produtos/Bebidas%20Brancas/Licores%20Xar%C3%A3o/Batida%20de%20Coco.png",
                                               "name":  "Batida De Coco",
                                               "cat":  "bebidas-brancas",
@@ -3117,7 +3117,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "Com a sua cor azul vibrante e sabor a laranja amarga, é o ingrediente essencial para dar cor e frescura aos teus cocktails.",
                                               "img":  "produtos/Bebidas%20Brancas/Licores%20Xar%C3%A3o/Blue%20cora%C3%A7%C3%A3o.png",
                                               "name":  "Blue Coração",
                                               "cat":  "bebidas-brancas",
@@ -3347,7 +3347,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "Uma bebida espirituosa de sabor seco e aromático, marcada pelas bagas de zimbro. Um clássico versátil para misturas tradicionais.",
                                               "img":  "produtos/Bebidas%20Brancas/Licores%20Xar%C3%A3o/Genebra.png",
                                               "name":  "Genebra",
                                               "cat":  "bebidas-brancas",
@@ -3377,7 +3377,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "O licor tradicional português com o sabor autêntico do fruto. Doce, persistente e ideal para servir num pequeno cálice após a refeição.",
                                               "img":  "produtos/Bebidas%20Brancas/Xar%C3%A3o/Ginja.png",
                                               "name":  "Ginja",
                                               "cat":  "bebidas-brancas",
@@ -3527,7 +3527,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "Um licor exótico e misterioso, com notas que remetem a especiarias e sabores quentes. Ideal para quem procura algo diferenciado.",
                                               "img":  "produtos/Bebidas%20Brancas/Licores%20Xar%C3%A3o/Licor%20Africano.png",
                                               "name":  "Licor Africano",
                                               "cat":  "bebidas-brancas",
@@ -3547,7 +3547,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "Rico e estimulante, com o aroma profundo do café acabado de torrar. Excelente para beber simples, com gelo ou em sobremesas.",
                                               "img":  "produtos/Bebidas%20Brancas/Licores%20Xar%C3%A3o/Licor%20caf%C3%A9.png",
                                               "name":  "Licor Café",
                                               "cat":  "bebidas-brancas",
@@ -3557,7 +3557,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "Inspirado na tradição das aldeias históricas, combina mel e ervas serranas. Um licor reconfortante com alma portuguesa.",
                                               "img":  "produtos/Bebidas%20Brancas/Licores%20Xar%C3%A3o/Licor%20Piodan.png",
                                               "name":  "Licor Piodan",
                                               "cat":  "bebidas-brancas",
@@ -3667,7 +3667,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "Um licor de cor verde brilhante e sabor intenso a banana verde. Exótico e doce, é perfeito para criar camadas em cocktails.",
                                               "img":  "produtos/Bebidas%20Brancas/Licores%20Xar%C3%A3o/pisang.png",
                                               "name":  "Pisang",
                                               "cat":  "bebidas-brancas",
@@ -3677,7 +3677,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "Inspirado nas receitas tradicionais, este ponche combina citrinos e doçura, resultando numa bebida equilibrada e muito fácil de beber.",
                                               "img":  "produtos/Bebidas%20Brancas/Xar%C3%A3o/Ponche.png",
                                               "name":  "Ponche",
                                               "cat":  "bebidas-brancas",
@@ -3787,7 +3787,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "Uma bebida de espírito mexicano, com o caráter vibrante do agave. Ideal para shots festivos ou para a preparação de Margaritas.",
                                               "img":  "produtos/Bebidas%20Brancas/Xar%C3%A3o/Tequilla-Tequiero.png",
                                               "name":  "Tequilla Tequiero",
                                               "cat":  "bebidas-brancas",
@@ -3847,7 +3847,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "Uma fusão doce e refrescante de vodka com o aroma intenso de morangos maduros. Perfeita para misturas frutadas e frescas.",
                                               "img":  "produtos/Bebidas%20Brancas/Xar%C3%A3o/Vodka%20Morango.png",
                                               "name":  "Vodka Morango",
                                               "cat":  "bebidas-brancas",
@@ -3857,7 +3857,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "Marcante e visualmente impactante, esta vodka de frutos silvestres é a favorita para shots gelados na vida noturna.",
                                               "img":  "produtos/Bebidas%20Brancas/Xar%C3%A3o/Vodka%20Preta.png",
                                               "name":  "Vodka Preta",
                                               "cat":  "bebidas-brancas",
@@ -3877,7 +3877,7 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Espirituosa de alta qualidade, perfeita para cocktails ou para apreciar simples.",
+                                              "desc":  "Um licor azul exótico que evoca sabores tropicais. Ideal para cocktails de verão que procuram um visual azul-turquesa e um toque refrescante.",
                                               "img":  "produtos/Bebidas%20Brancas/Xar%C3%A3o/Waikiki.png",
                                               "name":  "Waikiki",
                                               "cat":  "bebidas-brancas",
