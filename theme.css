@@ -134,7 +134,7 @@ a {
   max-width: 90%;
   object-fit: contain;
   margin-bottom: 2rem;
-  transform: scale(1.6);
+  transform: scale(2.5);
 }
 
 .age-gate-modal h2 {
@@ -257,7 +257,7 @@ a {
   width: auto;
   object-fit: contain;
   transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
-  transform: scale(1.6);
+  transform: scale(2.5);
 }
 
 .brand-logo span {
@@ -1026,7 +1026,7 @@ textarea.form-control {
   max-width: 400px;
   object-fit: contain;
   display: block;
-  transform: scale(1.4);
+  transform: scale(2.0);
 }
 
 .footer-about {
