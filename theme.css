@@ -129,7 +129,7 @@ a {
 }
 
 .age-gate-logo {
-  height: 70px;
+  height: 140px;
   width: auto;
   max-width: 90%;
   object-fit: contain;
@@ -252,7 +252,7 @@ a {
 }
 
 .logo-img {
-  height: 50px;
+  height: 90px;
   width: auto;
   object-fit: contain;
   transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
@@ -1021,7 +1021,7 @@ textarea.form-control {
 .footer-logo {
   height: auto;
   width: 100%;
-  max-width: 400px;
+  max-width: 550px;
   object-fit: contain;
   display: block;
 }
@@ -1540,7 +1540,7 @@ textarea.form-control {
   }
 
   .floating-nav .logo-img {
-    height: 42px !important;
+    height: 70px !important;
   }
 
   .floating-nav.scrolled {
@@ -1571,7 +1571,7 @@ textarea.form-control {
 
   /* Only logo centered on phones */
   .floating-nav .logo-img {
-    height: 36px !important;
+    height: 60px !important;
   }
 
   .search-mobile-btn,
