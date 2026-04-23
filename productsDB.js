@@ -108,7 +108,7 @@
                    "files":  [
                                  {
                                      "type":  "",
-                                     "desc":  "A sidra original e favorita. Elaborada com sumo de maçã real, oferece um equilíbrio perfeito entre a doçura e uma acidez refrescante.",
+                                     "desc":  "A sidra de maçã original, refrescante e equilibrada. Uma explosão de sabor frutado com o balanço perfeito entre a doçura e a acidez.",
                                      "img":  "produtos/Sidras/Somersby%20Apple.png",
                                      "name":  "Somersby Apple",
                                      "cat":  "sidras",
@@ -118,7 +118,7 @@
                                  },
                                  {
                                      "type":  "",
-                                     "desc":  "Uma combinação vibrante de sidra de maçã com o sabor intenso de amoras. Frutada, doce e com um final levemente refrescante.",
+                                     "desc":  "A doçura intensa das amoras silvestres numa sidra refrescante. Cor vibrante e sabor profundo para momentos de prazer descontraído.",
                                      "img":  "produtos/Sidras/Somersby%20Blackberry.png",
                                      "name":  "Somersby Blackberry",
                                      "cat":  "sidras",
@@ -128,7 +128,7 @@
                                  },
                                  {
                                      "type":  "",
-                                     "desc":  "Uma explosão tropical que junta o sabor exótico do maracujá à frescura cítrica da laranja. Ideal para quem procura algo irreverente.",
+                                     "desc":  "Uma combinação exótica e vibrante de maracujá e laranja. O sabor das férias em cada gole, perfeita para dias quentes de convívio.",
                                      "img":  "produtos/Sidras/Somersby%20Passionfruit%20%26%20Orange.png",
                                      "name":  "Somersby Passionfruit \u0026 Orange",
                                      "cat":  "sidras",
@@ -138,7 +138,7 @@
                                  },
                                  {
                                      "type":  "",
-                                     "desc":  "Todo o sabor doce e delicado da pera numa versão sem álcool. Uma opção leve, frutada e perfeita para qualquer momento do dia.",
+                                     "desc":  "Toda a frescura da sidra de pêra, com 0,0% de teor alcoólico. A escolha ideal para quem procura um sabor leve e doce sem restrições.",
                                      "img":  "produtos/Sidras/Somersby%20Pera%200.0.png",
                                      "name":  "Somersby Pera 0.0",
                                      "cat":  "sidras",
@@ -474,7 +474,7 @@
                           "files":  [
                                         {
                                             "type":  "",
-                                            "desc":  "A tónica de referência desde 1783. Equilíbrio perfeito entre o amargor do quinino e a efervescência das suas bolhas duradouras.",
+                                            "desc":  "A água tónica de referência mundial, com o equilíbrio perfeito entre o amargo do quinino e notas cítricas. O segredo para um Gin Tónico impecável.",
                                             "img":  "produtos/Refrigerantes/Schweppes/1_Schweppes%20-%20T%C3%B3nica.png",
                                             "name":  "1 Schweppes   Tónica",
                                             "cat":  "refrigerantes",
@@ -584,7 +584,7 @@
                                         },
                                         {
                                             "type":  "",
-                                            "desc":  "Um clássico refrescante com extratos de gengibre, oferecendo um sabor equilibrado, leve e picante.",
+                                            "desc":  "O caráter picante e aromático do gengibre numa bebida borbulhante e clássica. Uma escolha elegante para refrescar o seu bar ou mesa.",
                                             "img":  "produtos/Refrigerantes/Schweppes/8_Schweppes%20ginger%20ale.png",
                                             "name":  "8 Schweppes Ginger Ale",
                                             "cat":  "refrigerantes",
@@ -669,7 +669,7 @@
                         "files":  [
                                       {
                                           "type":  "",
-                                          "desc":  "Ingredientes selecionados com rigor pela Sotarvil, trazendo a melhor qualidade à sua mesa.",
+                                          "desc":  "O clássico snack ao natural. Estes amendoins são cuidadosamente selecionados e torrados para manter o sabor autêntico e a textura estaladiça. É o acompanhamento tradicional perfeito para uma cerveja fresca ou para entreter o apetite antes da refeição.",
                                           "img":  "produtos/Produtos%20Alimentares/Frutorra/Amendoim%20com%20Casca_Frutorra.png",
                                           "name":  "Amendoim Com Casca Frutorra",
                                           "cat":  "alimentares",
@@ -679,7 +679,7 @@
                                       },
                                       {
                                           "type":  "",
-                                          "desc":  "Ingredientes selecionados com rigor pela Sotarvil, trazendo a melhor qualidade à sua mesa.",
+                                          "desc":  "Para quem gosta de um toque audaz, estes amendoins combinam a crocância da torra ideal com o calor do piripiri. Um equilíbrio vibrante entre o salgado e o picante que desperta o paladar.",
                                           "img":  "produtos/Produtos%20Alimentares/Frutorra/Amendoim%20com%20PiriPiri_Frutorra.png",
                                           "name":  "Amendoim Com Piripiri Frutorra",
                                           "cat":  "alimentares",
@@ -689,7 +689,7 @@
                                       },
                                       {
                                           "type":  "",
-                                          "desc":  "Ingredientes selecionados com rigor pela Sotarvil, trazendo a melhor qualidade à sua mesa.",
+                                          "desc":  "O aperitivo indispensável. Torrados no ponto e levemente salgados, estes amendoins sem casca são práticos e viciantes, garantindo a qualidade e o sabor característicos da marca Frutorra.",
                                           "img":  "produtos/Produtos%20Alimentares/Frutorra/Amendoim%20com%20Sal_Frutorra.png",
                                           "name":  "Amendoim Com Sal Frutorra",
                                           "cat":  "alimentares",
@@ -1064,7 +1064,7 @@
                                  },
                                  {
                                      "type":  "",
-                                     "desc":  "Um vinho do Douro vibrante e autêntico. Frescura serrana e aromas frutados intensos que celebram a altitude da região.",
+                                     "desc":  "O expoente máximo da vinha. Um vinho estruturado, com estágio em madeira que lhe confere complexidade e um final longo e memorável.",
                                      "img":  "produtos/Vinhos/Vinhos%20do%20Douro/cabe%C3%A7a%20de%20gaio/Cabe%C3%A7a%20de%20Gaio%20-%20Grande%20Reserva.png",
                                      "name":  "Cabeça De Gaio   Grande Reserva",
                                      "cat":  "vinhos",
@@ -2356,7 +2356,7 @@
                                       },
                                       {
                                           "type":  "",
-                                          "desc":  "Solução de limpeza eficaz, desenvolvida para garantir os melhores resultados na sua casa.",
+                                          "desc":  "Sabonete líquido suave para as mãos. Limpa bem sem secar a pele e deixa um aroma floral agradável.",
                                           "img":  "produtos/Detergentes/Gel%20M%C3%A3os_Rosa.png",
                                           "name":  "Gel Mãos Rosa",
                                           "cat":  "detergentes",
@@ -2366,7 +2366,7 @@
                                       },
                                       {
                                           "type":  "",
-                                          "desc":  "A frescura cítrica e vibrante do limão. Uma escolha leve e revigorante que limpa o paladar e mata a sede de forma natural.",
+                                          "desc":  "Detergente para lavar a loiça à mão. Muito eficaz contra a gordura e com um aroma fresco a limão.",
                                           "img":  "produtos/Detergentes/Lava%20Loi%C3%A7a%20Manual_%20Concentrado%20Lim%C3%A3o.png",
                                           "name":  "Lava Loiça Manual  Concentrado Limão",
                                           "cat":  "detergentes",
@@ -2376,7 +2376,7 @@
                                       },
                                       {
                                           "type":  "",
-                                          "desc":  "Solução de limpeza eficaz, desenvolvida para garantir os melhores resultados na sua casa.",
+                                          "desc":  "Produto potente para remover gorduras difíceis em fogões, exaustores e fornos. Limpeza rápida e direta.",
                                           "img":  "produtos/Detergentes/Tira%20Gorduras.png",
                                           "name":  "Tira Gorduras",
                                           "cat":  "detergentes",
@@ -2582,7 +2582,7 @@
                     "files":  [
                                   {
                                       "type":  "",
-                                      "desc":  "Ingredientes selecionados com rigor pela Sotarvil, trazendo a melhor qualidade à sua mesa.",
+                                      "desc":  "Um azeite virgem equilibrado, proveniente de uma das herdades mais prestigiadas do Alentejo. Caracteriza-se por um sabor frutado suave e uma textura harmoniosa, sendo excelente para o uso diário, tanto em cozinhados como para temperar pratos de carne e peixe.",
                                       "img":  "produtos/Produtos%20Alimentares/Azeite%2C%20%C3%B3leo%2C%20Vinagre/Azeite%20Virgem_Herdade%20Pa%C3%A7o%20do%20Conde.png",
                                       "name":  "Azeite Virgem Herdade Paço Do Conde",
                                       "cat":  "alimentares",
@@ -2592,7 +2592,7 @@
                                   },
                                   {
                                       "type":  "",
-                                      "desc":  "Vinhos do Alentejo com a assinatura de qualidade Mingorra. Tradição, inovação e o carácter autêntico das terras alentejanas.",
+                                      "desc":  "Um azeite de categoria superior, extraído a frio para preservar todas as propriedades organoléticas das azeitonas. Apresenta notas verdes e um final ligeiramente picante e persistente, ideal para finalizar pratos, degustar com pão ou regar saladas gourmet.",
                                       "img":  "produtos/Produtos%20Alimentares/Azeite%2C%20%C3%B3leo%2C%20Vinagre/mingorra-extra-virgin-olive-oil.png",
                                       "name":  "Mingorra Extra Virgin Olive Oil",
                                       "cat":  "alimentares",
@@ -2602,7 +2602,7 @@
                                   },
                                   {
                                       "type":  "",
-                                      "desc":  "Vinhos do Alentejo com a assinatura de qualidade Mingorra. Tradição, inovação e o carácter autêntico das terras alentejanas.",
+                                      "desc":  "Produzido a partir de vinhos brancos selecionados, este vinagre destaca-se pela sua acidez limpa e frescura cítrica. É o acompanhamento perfeito para marinadas de peixe, molhos leves ou para dar um toque de sofisticação a saladas de verão.",
                                       "img":  "produtos/Produtos%20Alimentares/Azeite%2C%20%C3%B3leo%2C%20Vinagre/mingorra-white-wine-vinegar.png",
                                       "name":  "Mingorra White Wine Vinegar",
                                       "cat":  "alimentares",
@@ -2612,7 +2612,7 @@
                                   },
                                   {
                                       "type":  "",
-                                      "desc":  "Ingredientes selecionados com rigor pela Sotarvil, trazendo a melhor qualidade à sua mesa.",
+                                      "desc":  "Um óleo vegetal versátil e multiusos. Pelo seu sabor neutro e elevada resistência ao calor, é a escolha prática para frituras crocantes e para a elaboração de refogados, sem sobrepor o sabor aos ingredientes principais.",
                                       "img":  "produtos/Produtos%20Alimentares/Azeite%2C%20%C3%B3leo%2C%20Vinagre/%C3%93leo%20Alimentar%20Cindinha.png",
                                       "name":  "Óleo Alimentar Cindinha",
                                       "cat":  "alimentares",
@@ -2622,7 +2622,7 @@
                                   },
                                   {
                                       "type":  "",
-                                      "desc":  "Ingredientes selecionados com rigor pela Sotarvil, trazendo a melhor qualidade à sua mesa.",
+                                      "desc":  "Rico em vitamina E e gorduras insaturadas, este óleo é leve e refinado. É particularmente recomendado para a pastelaria (bolos e sobremesas) e para a confeção de maioneses caseiras, devido à sua textura fluida e sabor subtil.",
                                       "img":  "produtos/Produtos%20Alimentares/Azeite%2C%20%C3%B3leo%2C%20Vinagre/%C3%93leo%20de%20Girassol%20Cindinha.png",
                                       "name":  "Óleo De Girassol Cindinha",
                                       "cat":  "alimentares",
@@ -2632,7 +2632,7 @@
                                   },
                                   {
                                       "type":  "",
-                                      "desc":  "Ingredientes selecionados com rigor pela Sotarvil, trazendo a melhor qualidade à sua mesa.",
+                                      "desc":  "Uma fórmula selecionada para quem procura um desempenho superior na cozinha. Este óleo foi desenvolvido para suportar altas temperaturas por períodos mais longos, garantindo fritos menos oleosos e um resultado final mais dourado e profissional.",
                                       "img":  "produtos/Produtos%20Alimentares/Azeite%2C%20%C3%B3leo%2C%20Vinagre/%C3%93leo%20Premium_Cindinha.png",
                                       "name":  "Óleo Premium Cindinha",
                                       "cat":  "alimentares",
@@ -2882,7 +2882,7 @@
                                    },
                                    {
                                        "type":  "",
-                                       "desc":  "Inspirado na energia da Amazónia, um refrigerante refrescante com o extrato natural de guaraná e um toque exótico.",
+                                       "desc":  "O sabor exótico e estimulante da Amazónia. Um refrigerante vibrante com o toque autêntico do guaraná brasileiro.",
                                        "img":  "produtos/Refrigerantes/Super%20Bock%20Group/Guaran%C3%A1.png",
                                        "name":  "Guaraná",
                                        "cat":  "refrigerantes",
@@ -2892,7 +2892,7 @@
                                    },
                                    {
                                        "type":  "",
-                                       "desc":  "O histórico refrigerante de laranja, conhecido pelo seu sabor autêntico e tradição, mantendo a frescura de sempre.",
+                                       "desc":  "O sabor tradicional do laranjal português. Uma bebida cítrica clássica que oferece a refrescância simples e natural da fruta.",
                                        "img":  "produtos/Refrigerantes/Super%20Bock%20Group/Rical.png",
                                        "name":  "Rical",
                                        "cat":  "refrigerantes",
@@ -3217,6 +3217,16 @@
                                           },
                                           {
                                               "type":  "",
+                                              "desc":  "Um whisky irlandês de caráter rico e escuro, estagiado em barricas de xerez oloroso. Combina um sabor frutado intenso com uma suavidade única.",
+                                              "img":  "produtos/Bebidas%20Brancas/Whiskys/bushmills-black-bush.png",
+                                              "name":  "Bushmills Black Bush",
+                                              "cat":  "bebidas-brancas",
+                                              "hierarchy":  "Whiskys",
+                                              "brand":  "Whiskys",
+                                              "subCategory":  ""
+                                          },
+                                          {
+                                              "type":  "",
                                               "desc":  "A cachaça mais famosa do mundo. Cristalina e aromática, é a base indispensável para a Caipirinha perfeita.",
                                               "img":  "produtos/Bebidas%20Brancas/Cacha%C3%A7a/Cacha%C3%A7a%2051%20Balck.png",
                                               "name":  "Cachaça 51 Balck",
@@ -3240,6 +3250,16 @@
                                               "desc":  "Um Single Malt de Speyside elegante e generoso. Destaca-se pelo sabor a mel e fruta madura, com um final limpo e doce.",
                                               "img":  "produtos/Bebidas%20Brancas/Whiskys/Cardhu.png",
                                               "name":  "Cardhu",
+                                              "cat":  "bebidas-brancas",
+                                              "hierarchy":  "Whiskys",
+                                              "brand":  "Whiskys",
+                                              "subCategory":  ""
+                                          },
+                                          {
+                                              "type":  "",
+                                              "desc":  "Um clássico blended scotch whisky premium. Famoso pela sua extraordinária suavidade e paladar rico com notas de mel, avelã e caramelo.",
+                                              "img":  "produtos/Bebidas%20Brancas/Whiskys/Chivas%20Regal.png",
+                                              "name":  "Chivas Regal",
                                               "cat":  "bebidas-brancas",
                                               "hierarchy":  "Whiskys",
                                               "brand":  "Whiskys",
@@ -3290,6 +3310,16 @@
                                               "desc":  "Um \"blend\" leve e refrescante. Conhecido pela sua cor clara e perfil acessível, ideal para misturar em cocktails longos.",
                                               "img":  "produtos/Bebidas%20Brancas/Whiskys/Cutty%20Sark.png",
                                               "name":  "Cutty Sark",
+                                              "cat":  "bebidas-brancas",
+                                              "hierarchy":  "Whiskys",
+                                              "brand":  "Whiskys",
+                                              "subCategory":  ""
+                                          },
+                                          {
+                                              "type":  "",
+                                              "desc":  "Um single malt escocês excecional, envelhecido em barricas de ex-bourbon e tonéis de xerez oloroso. Apresenta notas ricas de chocolate, citrinos e especiarias doces.",
+                                              "img":  "produtos/Bebidas%20Brancas/Whiskys/Dalmore%2012%20years.webp",
+                                              "name":  "Dalmore 12 Years",
                                               "cat":  "bebidas-brancas",
                                               "hierarchy":  "Whiskys",
                                               "brand":  "Whiskys",
@@ -3427,22 +3457,22 @@
                                           },
                                           {
                                               "type":  "",
-                                              "desc":  "Um xarope clássico, ideal para refrescos tradicionais ou para dar um toque doce a cocktails e sobremesas.",
-                                              "img":  "produtos/Bebidas%20Brancas/Xar%C3%A3o/Groselha.png",
-                                              "name":  "Groselha",
-                                              "cat":  "bebidas-brancas",
-                                              "hierarchy":  "Xarão",
-                                              "brand":  "Xarão",
-                                              "subCategory":  ""
-                                          },
-                                          {
-                                              "type":  "",
-                                              "desc":  "Um xarope clássico, ideal para refrescos tradicionais ou para dar um toque doce a cocktails e sobremesas.",
+                                              "desc":  "Um xarope clássico e versátil. Indispensável para refrescos, cocktails ou para dar um toque frutado a diversas sobremesas.",
                                               "img":  "produtos/Bebidas%20Brancas/Outras%20Bebidas/Groselha.png",
                                               "name":  "Groselha",
                                               "cat":  "bebidas-brancas",
                                               "hierarchy":  "Outras Bebidas",
                                               "brand":  "Outras Bebidas",
+                                              "subCategory":  ""
+                                          },
+                                          {
+                                              "type":  "",
+                                              "desc":  "Um xarope clássico e versátil. Indispensável para refrescos, cocktails ou para dar um toque frutado a diversas sobremesas.",
+                                              "img":  "produtos/Bebidas%20Brancas/Xar%C3%A3o/Groselha.png",
+                                              "name":  "Groselha",
+                                              "cat":  "bebidas-brancas",
+                                              "hierarchy":  "Xarão",
+                                              "brand":  "Xarão",
                                               "subCategory":  ""
                                           },
                                           {
@@ -3473,6 +3503,16 @@
                                               "cat":  "bebidas-brancas",
                                               "hierarchy":  "Gins",
                                               "brand":  "Gins",
+                                              "subCategory":  ""
+                                          },
+                                          {
+                                              "type":  "",
+                                              "desc":  "Um whisky escocês clássico e acessível, com uma história que remonta a 1893. O seu perfil é marcado por aromas a mel, maçãs e um toque de caramelo suave.",
+                                              "img":  "produtos/Bebidas%20Brancas/Whiskys/Highland%20Queen.png",
+                                              "name":  "Highland Queen",
+                                              "cat":  "bebidas-brancas",
+                                              "hierarchy":  "Whiskys",
+                                              "brand":  "Whiskys",
                                               "subCategory":  ""
                                           },
                                           {
