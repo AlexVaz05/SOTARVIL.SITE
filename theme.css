@@ -129,11 +129,12 @@ a {
 }
 
 .age-gate-logo {
-  height: 140px;
+  height: 70px;
   width: auto;
   max-width: 90%;
   object-fit: contain;
   margin-bottom: 2rem;
+  transform: scale(1.6);
 }
 
 .age-gate-modal h2 {
@@ -252,10 +253,11 @@ a {
 }
 
 .logo-img {
-  height: 90px;
+  height: 50px;
   width: auto;
   object-fit: contain;
   transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+  transform: scale(1.6);
 }
 
 .brand-logo span {
@@ -1021,9 +1023,10 @@ textarea.form-control {
 .footer-logo {
   height: auto;
   width: 100%;
-  max-width: 550px;
+  max-width: 400px;
   object-fit: contain;
   display: block;
+  transform: scale(1.4);
 }
 
 .footer-about {
@@ -1540,7 +1543,7 @@ textarea.form-control {
   }
 
   .floating-nav .logo-img {
-    height: 70px !important;
+    height: 42px !important;
   }
 
   .floating-nav.scrolled {
@@ -1571,7 +1574,7 @@ textarea.form-control {
 
   /* Only logo centered on phones */
   .floating-nav .logo-img {
-    height: 60px !important;
+    height: 36px !important;
   }
 
   .search-mobile-btn,
