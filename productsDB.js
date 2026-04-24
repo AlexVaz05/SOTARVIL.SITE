@@ -554,16 +554,6 @@
                                         },
                                         {
                                             "type":  "",
-                                            "desc":  "Versão premium do clássico Ginger Ale, com maior complexidade aromática e perfeita para cocktails de autor.",
-                                            "img":  "produtos/Refrigerantes/Schweppes/5_Schweppes%20selection%20ginger%20ale.png",
-                                            "name":  "5 Schweppes Selection Ginger Ale",
-                                            "cat":  "refrigerantes",
-                                            "hierarchy":  "Schweppes",
-                                            "brand":  "Schweppes",
-                                            "subCategory":  ""
-                                        },
-                                        {
-                                            "type":  "",
                                             "desc":  "Um mixer exótico e aromático que combina o amargor da toranja com a doçura do pomelo.",
                                             "img":  "produtos/Refrigerantes/Schweppes/6_schweppes%20selection%20toranja%20pomelo.png",
                                             "name":  "6 Schweppes Selection Toranja Pomelo",
@@ -624,7 +614,7 @@
                                         },
                                         {
                                             "type":  "",
-                                            "desc":  "Todo o sabor icónico de Coca-Cola, mas sem açúcar e sem calorias. A escolha perfeita para quem não abdica do prazer original.",
+                                            "desc":  "O sabor lendário da Coca-Cola com zero açúcar e zero calorias. A refrescância máxima para quem não abdica do prazer Original em qualquer ocasião.",
                                             "img":  "produtos/Refrigerantes/Coca%20Cola/Coca%20Cola%20Zero%20Lata.png",
                                             "name":  "Coca Cola Zero Lata",
                                             "cat":  "refrigerantes",
