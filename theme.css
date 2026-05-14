@@ -882,10 +882,10 @@ textarea.form-control {
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
   padding: 2.5rem;
   border-radius: var(--radius-md);
-  position: sticky;
-  top: 7rem;
+  position: relative;
+  top: auto;
   align-self: stretch;
-  height: auto;
+  height: 100%;
   max-height: none;
   overflow-y: auto;
 }
@@ -899,11 +899,18 @@ textarea.form-control {
   border-radius: 10px;
 }
 
+.catalog-content {
+  display: flex;
+  min-width: 0;
+}
+
 .catalog-pdf-card {
   background: var(--surface-1);
   padding: 1.5rem;
   border-radius: var(--radius-md);
   box-shadow: 0 15px 40px rgba(0, 0, 0, 0.3);
+  width: 100%;
+  min-height: 100%;
   display: flex;
   flex-direction: column;
   align-items: center;
