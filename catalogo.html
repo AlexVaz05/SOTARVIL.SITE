@@ -169,15 +169,15 @@
 
         <!-- VISUALIZAÇÃO DO CATÁLOGO PDF -->
         <main class="catalog-content fade-up" style="transition-delay: 200ms; width: 100%;">
-            <div style="background: var(--surface-1); padding: 1.5rem; border-radius: var(--radius-md); box-shadow: 0 15px 40px rgba(0,0,0,0.3); height: 80vh; min-height: 600px; display: flex; flex-direction: column;">
+            <div class="catalog-pdf-card">
                 <h2 class="heading-font" style="margin-bottom: 1.5rem; color: #fff; font-size: 1.8rem; display: flex; align-items: center; gap: 0.8rem;">
                     <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="color: var(--gold-accent);"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>
                     Catálogo Oficial
                 </h2>
-                <div style="flex-grow: 1; border-radius: 8px; overflow: hidden; border: 1px solid rgba(255,255,255,0.1); position: relative;">
+                <div class="catalog-pdf-frame">
                     <!-- Hint for loading -->
                     <div style="position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; color: var(--text-muted); z-index: 0;">A carregar catálogo...</div>
-                    <object data="Catálogo 2026_.pdf" type="application/pdf" width="100%" height="100%" style="position: relative; z-index: 1;">
+                    <object class="catalog-pdf-object" data="Catálogo 2026_.pdf#toolbar=0&navpanes=0&view=FitH" type="application/pdf" width="100%" height="100%">
                         <p style="padding: 2rem; color: #fff;">O seu navegador não suporta visualização de PDFs. <a href="Catálogo 2026_.pdf" target="_blank" style="color: var(--gold-accent); text-decoration: underline;">Clique aqui para descarregar o catálogo (10MB)</a>.</p>
                     </object>
                 </div>
