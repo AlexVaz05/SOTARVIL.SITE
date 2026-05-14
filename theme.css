@@ -870,6 +870,7 @@ textarea.form-control {
   grid-template-columns: 280px 1fr;
   gap: 4rem;
   padding: 5rem 0 8rem;
+  align-items: stretch;
 }
 
 .catalog-sidebar {
@@ -883,8 +884,9 @@ textarea.form-control {
   border-radius: var(--radius-md);
   position: sticky;
   top: 7rem;
-  height: max-content;
-  max-height: calc(100vh - 8rem);
+  align-self: stretch;
+  height: auto;
+  max-height: none;
   overflow-y: auto;
 }
 
