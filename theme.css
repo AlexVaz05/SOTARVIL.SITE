@@ -902,17 +902,19 @@ textarea.form-control {
   padding: 1.5rem;
   border-radius: var(--radius-md);
   box-shadow: 0 15px 40px rgba(0, 0, 0, 0.3);
-  height: clamp(860px, 95vh, 1250px);
   display: flex;
   flex-direction: column;
+  align-items: center;
 }
 
 .catalog-pdf-frame {
-  flex-grow: 1;
+  width: min(100%, 820px);
+  aspect-ratio: 210 / 297;
   border-radius: 8px;
   overflow: hidden;
   border: 1px solid rgba(255, 255, 255, 0.1);
   position: relative;
+  background: #202020;
 }
 
 .catalog-pdf-object {
@@ -1798,8 +1800,6 @@ textarea.form-control {
 
   /* PDF viewer mobile fix */
   .catalog-pdf-card {
-    height: 78vh !important;
-    min-height: 520px !important;
     padding: 1rem !important;
   }
 
