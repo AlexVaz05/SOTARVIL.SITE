@@ -886,6 +886,7 @@ textarea.form-control {
   top: auto;
   align-self: stretch;
   height: auto;
+  min-height: 1245px;
   max-height: none;
   overflow-y: auto;
 }
@@ -1785,6 +1786,7 @@ textarea.form-control {
     position: relative;
     top: 0;
     height: auto;
+    min-height: 0;
     max-height: none;
     padding: 1.5rem;
   }
