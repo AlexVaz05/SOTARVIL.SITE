@@ -141,7 +141,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 
                 return `
                     <div class="search-result-item" data-cat="${prod.categoryKey}" data-name="${prod.name}">
-                        <img src="${prod.img}" class="search-result-img" alt="${displayName}" onerror="this.src='data:image/svg+xml;utf8,<svg xmlns=\\'http://www.w3.org/2000/svg\\' width=\\'50\\' height=\\'50\\'><rect fill=\\'%23f0f0f0\\' width=\\'50\\' height=\\'50\\'/></svg>'">
+                        <img src="${prod.img}" class="search-result-img" alt="${displayName}" loading="lazy" decoding="async" onerror="this.src='data:image/svg+xml;utf8,<svg xmlns=\\'http://www.w3.org/2000/svg\\' width=\\'50\\' height=\\'50\\'><rect fill=\\'%23f0f0f0\\' width=\\'50\\' height=\\'50\\'/></svg>'">
                         <div class="search-result-info">
                             <div class="search-result-name">${displayName}</div>
                             <div class="search-result-meta">${displayBrand} | ${prod.categoryTitle}</div>
