@@ -240,7 +240,7 @@ ul {
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background: url('./sotarvil_hero_bg.png') center/cover no-repeat fixed;
+  background: url('./galeria/armazem-optimized.jpg') center/cover no-repeat fixed;
   isolation: isolate;
 }
 
